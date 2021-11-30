@@ -1,0 +1,10 @@
+pip install pandas --trusted-host pypi.org --trusted-host files.pythonhosted.org
+pip install openpyxl --trusted-host pypi.org --trusted-host files.pythonhosted.org
+pip install matplotlib --trusted-host pypi.org --trusted-host files.pythonhosted.org
+pip install numpy --trusted-host pypi.org --trusted-host files.pythonhosted.org
+
+
+pandas is for data analysis, excel reports, visualization etc...
+numpy is the math library that pandas is built on
+matplotlib is the visualization library
+openpyxl is the library for making excel files.  Note: pandas is used for making excel files too, but openpyxl provides more options for customizing.

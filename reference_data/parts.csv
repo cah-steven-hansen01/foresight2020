@@ -1,0 +1,1419 @@
+Number,Description - Long,Lifecycle Phase,Rev,Overall Compliance,Subclass
+300620,"Resin, Polypropylene, Total Petrochemicals 3622",Active,3,,Part
+301001,"Resin, Polypropylene PF 535",Active,3,Compliant,Part
+301006,POLYPRO 7824MR,Active,0,,Part
+301009,"Resin, Clarified Polypropylene, Grade P5M6K-080",Active,0,Compliant,Part
+380226,"Flexographic Ink for In-Line Printing, PMS 281, Blue",Discontinued,2,,Part
+380296,"20 GA Color Striper Ink Wheel, Pink, Domestic",Discontinued,2,,Part
+380297,"21 GA Color Striper Ink Wheel, Lavender, Domestic",Discontinued,2,,Part
+400132,"Colorant, Dark Green, Opaque, Concentrate, CPP17549",Active,1,,Part
+400145,"Colorant, Lavender, Opaque, Concentrate",Active,1,,Part
+420600,"Resin Concentrate, Milliken Clear Tint PP Amber 6298",Discontinued,2,,Part
+420650,"Resin Concentrate, Milliken Clear Tint PP Amber 6298",Active,1,,Part
+3000311_APCI,"Cap, 12 mL, Thinwall, Clear",Discontinued,2,,Part
+3100510,"Sleeve, 12 mL, Rib, Open",Discontinued,2,,Part
+3100601,"Sleeve, 12 mL, Closed",Active,1,,Part
+3131010P,412 Barrel Phantom,Active,1,,Part
+3150401,"Molded Component, Barrel, 12 mL Luer Slip",Active,1,,Part
+3150403,12 mL Printed MAGELLAN Barrel - P5M6K-080,Active,1,,Part
+3150419,"Barrel, 12 mL, No Plunger Stop, Total 3622 Resin",Active,1,,Part
+3150420,"Barrel, 12 mL",Active,1,,Part
+3150429,"Barrel, 12 mL, Luer Lock without Stop. PF535",Active,1,,Part
+3150438,"Barrel, 12 mL, Regular no Plunger Stop, P5M6K-080",Active,1,,Part
+3150450,"Barrel, 12 mL Luer Lock with Finger Flange",Active,3,,Part
+3154020,"Barrel, 12 mL, Luer Lock, P5M6K-080",Active,2,,Part
+3154021,"Barrel, 12 mL, SR, P5M6K-080",Active,2,,Part
+3154021CM28,"Barrel, 12 mL, SR, P5M6K-080, Wide Finger Flange",Active,1,,Part
+3154023,"Barrel, 12 mL, Eccentric Tip (SE)",Discontinued,2,,Part
+3154024,BBL 12 LK 7824MR W/O FILL RING,Discontinued,2,,Part
+3156001,"Molded Component, 412 Curved Tip Barrel",Active,2,,Part
+3156002,412 Syringe Assembly Phantom,Active,2,,Part
+3157603,"Molded Component, Barrel 907 S-O",Active,2,,Part
+3157616,"Barrel, 10 mL, Amber, Oral - Milliken",Active,2,,Part
+3170645,"Smooth Rubber Tip, 12 mL, Latex Free, Kokoku",Active,1,,Part
+3200800,PLGR 10ML PURPLE 4-LOBE,Active,1,,Part
+3200804,12 mL MAGELLAN Plunger - PF535,Active,1,,Part
+3200805,Plunger 10mL Purple 3-Lobe,Active,2,,Part
+3201403,4 Lobe Plunger Phantom,Active,1,,Part
+3201413,3 Lobe Plunger Phantom,Active,1,,Part
+3201428,"Plunger, 12 mL, 3 Lobe, Green",Active,1,,Part
+3201429,"Plunger, 12 mL, 4 Lobe, Green",Active,1,,Part
+3201430,"Plunger, 12 mL with Extended Flange",Active,1,,Part
+4001204,"Smooth Rubber Tip with Trim, 12 mL, Latex Free, Kokoku",Active,1,Compliant,Part
+4001801,"Rubber Tip, 12 mL, Latex Free",Active,1,Non-Compliant,Part
+4006201,"Plunger Tip, 12mL Syringe, Parylene Coated, MONOJECT PREFILL, Anti-Reflux",Active,1,,Part
+4006202,"Plunger Tip, 12mL, Smooth, Black, Latex Free",Active,2,,Part
+4101801,TIP 12 CC RAYCO WG2714 RUBBER TIP,Active,0,Compliant,Part
+4220104,"Printing Foil for Hot Stamp Marking, 2.375 Inch, Black",Active,2,,Part
+4220125,"Print Tape, Black, 3 Inch Wide, B215SL",Active,2,,Part
+4230505,"Ink, Black, Trans Tech PM 1, RNT Vendor PN: 1351366",Active,2,Non-Compliant,Part
+4500003,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 20 Gage x 1-1/2 Inch, A3 Bevel, Pink",Active,2,,Part
+4500005,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 21 Gage x 1 Inch, A3 Bevel, Lavender",Active,2,,Part
+4500006,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 21 Gage x 1-1/2 Inch, A3 Bevel, Lavender",Active,1,,Part
+4500009,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 22 Gage x 1-1/2 Inch, A3 Bevel, Blue",Active,1,,Part
+4500148,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 18 Gage x 1 Inch, I Bevel, Green",Active,1,,Part
+4500150,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 18 Gage x 1 Inch, Rounded Blunt, Charcoal Gray",Active,1,,Part
+4500548,"Finished Component, MONOJECT 500E Hooded Needle Assembly, 18 Gage x 1 Inch, I Bevel, Green",Active,2,,Part
+4500902,"Finished Component, MONOJECT Hooded Needle Assembly, Access Pin, Blunt, Sub-Assembly",Discontinued,2,,Part
+4500906,SMARTIP Cannula,Active,0,,Part
+4500906_28CM,"Finished Component, SMARTIP Cannula",Active,1,,Part
+4500911,"Hooded Needle, BLUNTIP IV Access, Saturn Yellow",Active,0,,Part
+4500911_28CM,"MONOJECT Bluntip I.V. ACCESS Saturn Yellow, Bulk",Active,1,,Part
+4502500,SYR 12ml WFF Magellan Sub,Active,4,,Part
+5000109,"Gusseted Polybag, Unprinted, 24 Inch x 38 Inch x 16 Inch (Width x Length x Gusset)",Active,1,,Part
+5000231,"Gusseted Polybag, Unprinted, 13.5 Inch x 14.25 Inch x 5.5 Inch",Active,1,,Part
+5000243,"Polybag, Unprinted, 6 Inch x 4 Inch",Active,1,,Part
+5000244,"Polybag, Unprinted, 6 Inch x 5 Inch",Active,1,,Part
+5030483,"Shrink Film, Polyethylene, High Strength, Natural Color, 30.0 inch",Active,1,,Part
+51500035,"Rubber Tip 12 mL, Latex Free, With Silicone",Discontinued,3,,Part
+5151171,"Folding Carton, Unprinted, 8.25 Inch x 5.5 Inch x 8.25 Inch",Active,1,,Part
+5153121,UNIT BOX 12CC LIFESHLD TYCO ML,Discontinued,0,,Part
+5170114,"Header Bag, TYVEK, Unprinted, 10 Inch x 20 Inch, Clear",Active,1,,Part
+5170115,"Plastic Breather Bag, Unprinted, 28 Inch x 24 Inch",Active,1,,Part
+5170406,"Paper, Perfecseal 35733K, 587 mm Wide, 3 mil",Active,1,,Part
+5170588,"Poly Bag, Gusseted, 22.5 Inch x 16.25 Inch x 42.00 Inch",Active,1,,Part
+5170969,"PerfecSeal Film, 30653-EE, 7 mil, 607 mm",Active,1,,Part
+51731218,"Plunger 12 mL Clear, Nonsterile, OKI 410L-4",Discontinued,3,,Part
+51761207,"Rubber Tip, 12cc, Latex Free, Non-Siliconized",Discontinued,2,,Part
+51771203,"12mL Syringe Barrel, Total 3622 Resin",Discontinued,2,,Part
+51771207,"In-Process 12 mL Syringe Barrel Without Stop, Unprinted",Discontinued,2,,Part
+51771405,"In-Process 412 Syringe Barrel, Unprinted",Discontinued,2,,Part
+51777047MT,"Barrel, 10ml Regular Luer Slip, Printed, Nonsterile, Medizin Technik",Discontinued,3,,Part
+51777369MT,"10mL Barrel, Medizin Technik",Discontinued,2,,Part
+51777401,"12 mL Barrel Regular Luer Slip, Without Plunger Stop",Discontinued,0,,Part
+51777419,"12 mL Barrel Plastic Luer Lock, Without Plunger Stop",Discontinued,2,,Part
+5241005,"Thermal Transfer Label, Roll, Unprinted, White, 5 Inch Length x 4 Inch Width",Active,0,Compliant,Part
+5241005_28CM,"Thermal Transfer Label Roll, Unprinted, White, 5 Inch Length x 4 Inch Width",Active,1,,Part
+5241006,"Thermal Transfer Label Roll, Unprinted, White, 4 Inch Length x 6 Inch Width",Active,0,,Part
+5241008,"Unprinted Label Stock, Thermal, 4 Inch x 8 Inch",Active,1,Compliant,Part
+5241008FF2,"Label, 4 x 8 Fan Fold 2 Up",Active,1,,Part
+5241008R,Label 4 x 8 No Perferation,Active,1,,Part
+5500148,"Corrugated Case, Unprinted, 18 Inch x 13 Inch x 17 Inch",Active,1,,Part
+5500149,"Corrugated Case, Unprinted, 16.75 Inch x 14.125 Inch x 11.125 Inch",Active,1,Compliant,Part
+5500208,"Corrugated Case, Unprinted, 18 Inch x 17 Inch x 13.75 Inch",Active,1,Compliant,Part
+5510301,"Corrugated Case, Unprinted, 16.312 Inch x 12.938 Inch x 11 Inch",Active,1,,Part
+5510303,"Corrugated Case, Unprinted, 17.531 Inch x 12.938 Inch x 10.75 Inch",Discontinued,1,,Part
+5510303_28CM,"Corrugated Case, Unprinted, 17.531 Inch x 12.938 Inch x 10.75 Inch",Active,1,,Part
+5510305,"Corrugated Case, Unprinted, 18.875 Inch x 12.938 Inch x 10.75 Inch",Discontinued,2,,Part
+5510320,"Corrugated Case, Unprinted, 17.438 Inch x 11.063 Inch x 11.438 Inch",Active,2,Compliant,Part
+5510509,"Corrugated Case, Unprinted, 16.75 Inch x 14.125 Inch x 8.5 Inch",Active,2,Compliant,Part
+5510538,"Corrugated Case, Unprinted, 17.906 Inch x 12.938 Inch x 10.75 Inch",Discontinued,2,,Part
+5542726,"OEM: Corrugated Case, Unprinted, 18-3/8 Inch x 11-1/4 Inch x 11-5/16 Inch",Active,2,,Part
+5542735,"Corrugated Case, Unprinted, 21-5/8 Inch x 15-1/4 Inch x 11-1/2 Inch",Active,1,,Part
+81110160,Syringe HM110S-O without Caps,Discontinued,4,,Part
+81112059,"Syringe, 12mL Regular Luer Tip",Discontinued,5,,Part
+81112075,In Process Syringe 12cc Eccentric,Discontinued,2,,Part
+81112083,"MONOJECT 12 mL Luer Lock Syringe, CE Mark",Discontinued,4,,Part
+81112093,"12mL Luer Lock Syringe Assembly, Unprinted, Bulk",Discontinued,0,,Part
+81112599,In Process Syringe 12mL LLK Smthip Bulk Non Sterile,Discontinued,4,,Part
+81112985,"10 mL Syringe, Bulk",Discontinued,4,,Part
+81200555,In Process Syringe 12cc SR Softpack,Discontinued,5,,Part
+81200777,In Process Syringe 12cc LK Softpack,Discontinued,8,,Part
+81218100,In Process Syringe 12cc 18 x 1 Softpack,Discontinued,7,,Part
+81220112,In Process Syringe 12cc 20 x 1-1/2 Softpack,Discontinued,8,,Part
+81221100,In Process Syringe 12cc 21 x 1 Softpack,Discontinued,8,,Part
+81221112,In Process Syringe 12cc 21 x 1 -1/2 Softpack,Discontinued,8,,Part
+81412012,In-Process MONOJECT Curved Tip Syringe,Discontinued,5,,Part
+81412199,"In-Process 12 mL Straight Tip Syringe, Unprinted, Bulk",Discontinued,3,,Part
+81502267,In-Process SYR 12ml 18 X 1 I Vet Pack,Discontinued,5,,Part
+81512597,In-Process Syringe 12ml E 18 X 1 I,Discontinued,5,,Part
+81512662,In-Process Syringe 12cc 20 x 1 1/2 OP,Discontinued,5,,Part
+81512738,In-Process Syringe 12ml E 21 X 1 A,Discontinued,5,,Part
+81512746,In-Process Syringe 12ml - E 21 X 1 1/2 A,Discontinued,5,,Part
+81512811,In-Process Syringe 12ml - E 22 X 1-1/2 A,Discontinued,5,,Part
+81512852,In Process Syringe 12cc SR O/P,Discontinued,7,,Part
+81512860,In Process Syringe 12cc SE O/P,Discontinued,4,,Part
+81512878,In Process Syringe 12cc LK O/P,Discontinued,6,,Part
+81540122,In Process Syringe 12mL with SmarTip Cannula SP,Discontinued,8,,Part
+81541125,In Process Syringe 12ml Blunt Tip IV Access,Discontinued,5,,Part
+81541208,In Process Syringe 12cc BlunTip Vial Access Softpack,Discontinued,8,,Part
+81907003,In-Process Syringe 10ml Anber Oral Med CE Mark,Discontinued,5,,Part
+81907102,In Process Syringe 907S-O 10mL Oral Medication CE Mark,Discontinued,7,,Part
+81907465,"Syringe 10mL Oral without Caps, Bulk",Discontinued,5,,Part
+8998PG2CC,18 Gallon PG2 Collection Container,Preliminary,,,Part
+99015022,Ackrad 12mL Luer Lock Syringe Without Fill Ring,Discontinued,2,,Part
+99410S,IP 10ML KANGAROO PURPLE SYRINGE NON STERILE,Discontinued,6,,Part
+994501820,"In-Process Syringe 12ml Oral Purple Sub, Bulk",Discontinued,6,,Part
+994502476,"Syringe, 12 cc Luer Lock Syringe",Discontinued,4,,Part
+994502500,IP SYR 12ml WFF Magellan Sub,Discontinued,4,,Part
+994502560,In Process Non Reflux 12cc Prefill Syringe 1000,Discontinued,5,,Part
+CL635160042A,Unit Box 12ml Vet-Pack Covidien,Discontinued,1,,Part
+CL635160072A,Unit box 12 mL Blunt Tip IV Access Covidien,Discontinued,1,,Part
+CL63R1040,"Corrugated Case, Printed, NovaPlus, 25.375 Inch x 14.25 Inch x 10.6875 Inch",Active,0,,Part
+CL63R1146,"Corrugated Case, Printed, NovaPlus, 20.25 Inch x 17.625 Inch x 14.5 Inch",Active,0,,Part
+CL63R1368,"(COV) Corrugated Case, Printed, 6.625 Inch X 11.125 Inch X 4.1875 Inch",Discontinued,1,,Part
+CL63R1603,"Corrugated Case, Printed, NovaPlus, 2 Gallon Sharps Disposal Container",Active,0,,Part
+CL63R1653,"Corrugated Case, Printed, NovaPlus, 19.375 Inch x 15.125 Inch x 21.875 Inch",Active,0,,Part
+CL63R1654,"Corrugated Case, Printed, NovaPlus, 19.375 Inch x 15.125 Inch x 21.875 Inch",Active,0,,Part
+CL63R1706,"Corrugated Case, Printed, NovaPlus, 24.625 Inch x 13.875 Inch x 20.500 Inch",Active,0,,Part
+CL63R1767,Overshipper for NOVAPLUS Reorder No. V8506,Discontinued,1,,Part
+CL63R1767A,Overshipper for V8506,Active,0,,Part
+CL63R1768,Overshipper for NOVAPLUS Reorder No. V8618,Discontinued,1,,Part
+CL63R1768A,Overshipper for NovaPlus V8618 - Covidien  Rebranded,Discontinued,1,,Part
+CL63R1768B,Overshipper for NovaPlus V8618 - Covidien  Rebranded,Active,0,,Part
+CL63R1769,"Corrugated Case, Printed, NOVAPLUS, 21.750 Inch x 18.625 Inch x 34.8125 Inch",Discontinued,2,,Part
+CL63R1769A,"Overshiper for NOVA PLUS, Product Code V8870",Discontinued,1,,Part
+CL63R1769B,"Overshiper for NOVA PLUS, Product Code V8870",Active,0,,Part
+CL63R1770,"Corrugated Case, Printed, NOVAPLUS, 18.750 Inch X 12.375 Inch X 42.6875 Inch",Discontinued,2,,Part
+CL63R1770A,"Overshiper for NOVA PLUS, Product Code V8938",Active,0,,Part
+CL63R1771,"Corrugated Case, Printed, Generic, 20.25 Inch X 13.875 Inch X 14.75 Inch",Active,1,,Part
+CL63R1772,"Corrugate Inner Carton, Printed, Generic, 14.375 Inch X 13.375 Inch X 4.5 Inch",Active,1,,Part
+CL63R1773,"Corrugated Case, Printed, Generic, 22.0 Inch X 10.875 Inch X 4.5 Inch",Active,1,,Part
+CL63R1774,"Corrugated  Insert, Unprinted 18.75 Inch X 4.5 Inch",Active,1,,Part
+CL63R1775,"(COV) Corrugated Case, Printed, 6.625 Inch X 11.125 Inch X 4.188 Inch",Preliminary,,,Part
+CL63R1776,"Corrugate Case, Printed, 25.25 Inch x 11.00 Inch x 21.50 Inch",Active,0,,Part
+CL63R1777,"Corrugated Insert, Unprinted, 37.875 Inch x 10.625 Inch",Active,0,,Part
+CL63R1778,"Corrugate Partition, 25.00 Inch x 10.50 Inch",Active,0,,Part
+CL63R1779,"Corrugated Case, Unprinted, 22.00 Inch x 14.00 Inch x 20.5 Inch",Active,0,,Part
+CL63R1780,"Corrugate4d Insert, Unprinted, 37.5 Inch x 20.5 Inch",Active,0,,Part
+CL63R1781,"Corrugated Case, Unprinted, 24.25 x 14.25 x 26.5 Inch",Active,0,,Part
+CL63R1782,"Corrugated Pad, Urinted, 11.25 Inch x 14.125 Inch",Active,0,,Part
+CL63R1783,"Corrugate Partition, Unprinted,  26.25 Inch x 26.5 Inch",Active,0,,Part
+CL63R1784,"Corrugated Carton, Unprinted, 21.875 Inch X 18.625 Inch",Active,0,,Part
+CL63R1785,"Corrugated Insert, Unprinted, 21.4375 Inch X 14.25 Inch",Discontinued,1,,Part
+CL63R1786,"Corrugated Insert, Unprinted, 15.0625 Inch X 14.0 Inch",Discontinued,1,,Part
+CL63R1787,"Corrugated Insert, Unprinted, 21.75 Inch X 14.25 Inch",Discontinued,1,,Part
+CL63R1793,"Corrugated Case, Printed, Generic, 14.375 Inch x 14.375 Inch x 21.75 Inch",Discontinued,1,,Part
+CL63R1794,"Unit Box, Project Free",Active,0,Compliant,Part
+CL63R1796,"Corrugated Case, Printed, Generic, 20.25 Inch x 14.75 nch x 17.50 Inch",Active,0,,Part
+CL63R3908,"(COV) Printed Label, Waste Disposal Container, Lid Instructions, Generic, Various Reorder Nos. Symbol No. CL63R3908",Active,1,Compliant,Part
+CL63R4055,"(COV) Product Label, Printed, Generic, CHEMOSAFETY Waste Disposal Container",Discontinued,1,,Part
+CL63R4127,"(COV) Printed Product Label, Generic, Biohazard Waste Disposal Container Container",Discontinued,1,,Part
+CL63R41278506SA,Black Ink Cliche' for Product Code 8506SA,Discontinued,1,,Part
+CL63R41278507SA,Black Ink Cliche' for Product Code 8507SA,Discontinued,1,,Part
+CL63R41278536SA,Black Ink Cliche' for Product Code 8536SA,Discontinued,1,,Part
+CL63R41278537SA,Black Ink Cliche' for Product Code 8537SA,Discontinued,1,,Part
+CL63R412789651,Black Ink Cliche' for Product Code 89651,Discontinued,1,,Part
+CL63R412789671,Black Ink Cliche' for Product Code 89671,Discontinued,1,,Part
+CL63R41278970,Black Ink Cliche' for Product Code 8970,Discontinued,1,,Part
+CL63R4127BCKGRD,Orange Ink Cliche' for the CL63R4127 Bio Hazard Label,Discontinued,1,,Part
+CL63R4127V8536,Black Ink Cliche' for Product Code V8536,Discontinued,1,,Part
+CL63R4128,"COV) Product Label, Printed, Biohazard, Sharps Containers, Various Reorder Nos.",Discontinued,1,,Part
+CL63R4145,"(COV) Product Label, Printed, Usage Instruction, Sharps Containers, Various Reorder Nos. Symbol No. CL63R4145",Preliminary,,,Part
+CL63R4147,"(COV) Product Label, Printed, Merchandise Return, Sharps Containers",Discontinued,1,,Part
+CL63R4153,"(COV) Product Label, Printed, Generic, Waste Disposal Container, Various Reorder Nos.",Active,1,Compliant,Part
+CL63R4225,"(COV) Product Label, Printed, 5.0 Inch x 6.75 Inch, PHARMASAFETY Containers, Various Reorder Nos.",Discontinued,1,,Part
+CL63R4226,"(COV) Product Label, Printed, 2.25 Inch x 3.625 Inch, PHARMASAFETY Containers",Preliminary,,,Part
+CL63R4264,"(COV) Product Label, Printed, Biohazard, Sharps Container Small Volume,Various Reorder Nos.",Discontinued,2,,Part
+CL63R4265,"(COV) Printed Product Label, Waste Disposal Container, Reorder No. 8930SA",Discontinued,2,,Part
+CL63R4286,"(COV) Product Label, Printed, Non-Infectious Glass Waste Disposal Container",Discontinued,2,,Part
+CL63R4293,"Product Label, Printed, CHEMOMAX Regulated Medical Waste Container",Discontinued,3,,Part
+CL63R4296,"(COV) Product Label, BIOMAX Regulated Medical Waste Container, Reorder Nos. 8998PG2, 8998SPG2, 8997PG2, 8997SPG2, 8932PG2, and 8936PG2",Discontinued,1,,Part
+CL63R4355,"(COV) Product Label, Printed, Generic, PHARMASTAR Waste Disposal Container",Discontinued,2,,Part
+CL63R4369,"(COV) Product Label, RCRA Hazardous Waste, Various Reorder Nos.",Discontinued,3,,Part
+CL63R4380,"(COV)  Product Label, Printed, Biohazard, Waste Disposal Container",Discontinued,0,,Part
+CL63R4384,"(COV) Product Label, Printed, Biohazard, French/English, Reorder No. 8506YM",Discontinued,2,,Part
+CL63R4401,"Product Label, Printed, SHARPS-A-GATOR Sharps Collection and Disposal System,",Discontinued,2,,Part
+CL63R4404,"(COV) Product Label, Printed, Canada, CHEMOSAFETY Waste Disposal Container, Various Reorder Nos.",Active,1,,Part
+CL63R4405,"(COV) Printed Label, Country of Origin Identification, Glove Box with Brackets",Discontinued,2,,Part
+CL63R4407,"(COV) Product Label, Printed, Generic, Biohazard, Waste Disposal Container, Reorder No. 8303BY",Discontinued,2,,Part
+CL63R4408,"(COV) Product Label, Printed, Biohazard, Wasted Disposal Container, Reorder No. 8301BY",Discontinued,2,,Part
+CL63R4416,"Overshipper Label, Preprinted with NOVAPLUS Logo, 4 Inch X 7 Inch",Discontinued,2,,Part
+CL63R4417,"Product Label, Printed, NOVAPLUS, Biohazard, Sharps Containers,            Product Code V8938",Discontinued,2,,Part
+CL63R4418,"Product Label, Printed, NOVAPLUS, Biohazard Waste Disposal Container, Product Code V8506",Discontinued,3,,Part
+CL63R4419,"Product Label, Printed, NOVAPLUS, PharmaSafety Containers,                  Product Code V8870",Discontinued,2,,Part
+CL63R4420,"Product Label, Printed, NOVAPLUS, RCRA Hazard Waste,                            Product Code V8618",Discontinued,3,,Part
+CL63R4421A,"Product Label, Printed, FISHER HEALTHCARE, Private label, BioHazard Waste Disposal Containers Reorder No. 31325410",Discontinued,2,,Part
+CL63R4422A,"Product Label,  Preprinted, PREVENT, Private label, BioHazard Waste Disposal Containers Reorder No. 065",Discontinued,2,,Part
+CL63R4423A,"COV) Product Label, Universal Pharmaceutical Hazardous Waste PART NO: CL63R4423A",Discontinued,3,,Part
+CL63R4424,"Overshipper Label, Preprinted with FISHER HEALTHCARE Logo, 4 Inch X 7 Inch Reorder No. 31325410",Discontinued,,,Part
+CL63R4426A,"Overshipper Label, Preprinted for PREVENT Private Label, 4 Inch X 7 Inch Reorder No. 065",Discontinued,2,,Part
+CL63R4427,"(COV) Printed Product Label, Generic, Biohazard Waste Disposal Container SHARPS-A-GATOR, Various Reorder Nos.",Discontinued,1,,Part
+CL63R442731142222,Black Ink Cliche' for Product Code 31142222,Discontinued,1,,Part
+CL63R4427BCKGRD,Orange Ink Cliche' for the CL63R4427 Bio Hazard Label,Discontinued,1,,Part
+CL63R4428,"(COV) Printed Product Label, Generic, Biohazard Waste Disposal Container SHARPS-A-GATOR",Discontinued,2,,Part
+CL63R4431,"(COV) Printed Label, SharpSafety Waste Disposal Container, Lid Instructions, Generic, Various Reorder Nos.",Discontinued,1,,Part
+CL63R4439,"Printed Label, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers, Lid Instructions, Product Codes 8851NB and 8871NB",Active,2,Compliant,Part
+CL63R4440,"Product Label, Printed, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers,Various Reorder Nos.",Discontinued,3,,Part
+CL63R4441,"Printed Product Label, Generic, IML Biohazard Waste, Disposal Container  Various Reorder NOS.",Discontinued,1,,Part
+CL63R4445,"(COV) Product Label, Printed, Canada, CHEMOSAFETY Waste Disposal Container, Various Reorder Nos.",Active,0,Compliant,Part
+CL63R4545,"Plastic Bag, Printed, AUTODROP Blood Needle Holder System",Discontinued,1,,Part
+CL63R4546,"Plastic Bag, Printed, AUTODROP Blood Needle Holder, 10.125 Inch x 15.5 Inch, Reorder No. 1500SA",Discontinued,1,,Part
+CL63R4570,"Print Mat 412SE, 12 mL Enteral Syringe with Tip Cap",Discontinued,1,,Part
+CL63R7462LTAD,Black Ink Cliché for Product Code 8836NB,Discontinued,2,,Part
+CL63R9225,"Corrugated Carton, Printed, 21.375 W Inch x 10.688 H Inch x 7.063 D Inch",Discontinued,1,,Part
+CL63R98099A,Insert Sheet for Sharp Shuttle 8301,Discontinued,1,,Part
+CL63R98173,"(COV) Printed Insert, Instruction Sheet, Drywall Anchors, Reorder No. 8556H",Active,2,,Part
+CL63R98211,Covidien Instruction Sheet for 30 Gallon,Active,0,,Part
+CL63R98226,"(COV) Printed Insert, Assembly and Usage Instructions, Reorder No. 8964",Active,1,,Part
+CL63R98234,"(COV) Printed Insert, Instruction Sheet, PHARMASAFETY Containers",Active,1,,Part
+CL63R9828,"(COV) Printed Insert, Instruction Sheet, AUTODROP Holder, Various Reorder Nos.",Discontinued,2,,Part
+CL63R98331,"(COV) Printed Insert, 1 Quart Transportable Container, Reorder No. 8303SA",Discontinued,1,,Part
+CL63R98331A,"(COV) Printed Insert, 1 Quart Transportable Container, Reorder No. 8303SA",Discontinued,1,,Part
+CL63R98334,"(Cove) Printed Insert, SHARPSTAR IN-ROOM Containers",Discontinued,1,,Part
+CL63R98334A,"(Cove) Printed Insert, SHARPSTAR IN-ROOM Containers",Active,0,,Part
+CL63R98337,"(COV) Printed Insert, Phlebotomy 1 Quart Sharps Container",Discontinued,1,,Part
+CL63R98337A,"(COV) Printed Insert, Phlebotomy 1 Quart Sharps Container",Active,0,,Part
+CL63R98338,"(COV) Printed Insert, AUTODROP Blood Needle Holder System",Discontinued,2,,Part
+CL63R98340,"(COV) Printed Insert, Sharps Disposal Units with Flap Doors and Unwinders, Various Reorder Nos.",Discontinued,2,,Part
+CL63R98346,"(COV) Printed Insert, IN-ROOM Sharps Disposal System",Active,1,,Part
+CL63R98347,"(COV) Printed Insert, Foot Pedal Cart, Reorder No. 8940FP",Discontinued,2,,Part
+CL63R98355,"(COV) Printed Insert, SHARPSAFETY Non-Infectious Glass Waste",Active,0,,Part
+CL63R98362,"Covidien Printed Insert, SHARPS-A-GATOR SHARPSSAFETY Sharps Collection and Disposal System",Discontinued,2,,Part
+CL63R98395,"(COV) Printed Insert, SHARPS-A-GATOR Sharps Collection and Disposal System",Discontinued,2,,Part
+CL63R98396,"(Cov) Printed Insert, Generic,      SHARPS-A-GATOR Sharps Container",Discontinued,1,,Part
+CL63R98396A,"(Cov) Printed Insert, Generic,      SHARPS-A-GATOR Sharps Container",Active,0,,Part
+CL63R98397,"(Cov) Printed Insert, Generic, DEVON Sharps Container",Discontinued,1,,Part
+CL63R98397A,"(Cov) Printed Insert, Generic, DEVON Sharps Container",Discontinued,1,,Part
+CL63R98407,"(COV) Printed Insert, Instruction Sheet, 2-1/2 and 5 Qurat Containers",Discontinued,1,,Part
+CL63R98407A,"(COV) Printed Insert, Instruction Sheet, 2-1/2 and 5 Qurat Containers",Active,0,,Part
+CL63R98408,"(COV) Printed Insert, Instruction Sheet, 3.5 Gallon Sharps Container",Discontinued,1,,Part
+CL63R98411,"(COV) Printed Insert, Instruction Sheet, Absorbent Pads, Sharps Containers, Various Reorder Nos.",Active,,,Part
+CL63R98414,"(COV) Printed Insert, Instruction Sheet, GATORGUARD Sharps Containers, Various Reorder Nos.",Discontinued,2,,Part
+CL63R98414A,"(COV) Printed Insert, Instruction Sheet, GATORGUARD Sharps Containers, Various Reorder Nos.",Discontinued,1,,Part
+CL63R98415,"(COV) Printed Insert, SHARPS-A-GATOR Sharps Container, Reorder Nos. 31143731 and 31143699",Discontinued,1,,Part
+CL63R98431,"(COV) Printed Insert, RCRA Waste Disposal Containers, Various Reorder Nos.",Discontinued,1,,Part
+CL63R98433,"(COV) Printed Insert, Foot Pedal Cart, Reorder No. 8941FP",Discontinued,2,,Part
+CL63R98455,"Absorbant Pads, Large, 9-7/8 Inch x 6 Inch",Discontinued,1,,Part
+CL63R98458,"(COV) Printed Insert, RCRA 5 Quart Waste Disposal Containers, Various Reorder Nos.",Discontinued,1,,Part
+CL63R98461A,"Printed Insert, SHARPS-A-GATOR and CHEM-O-GATOR 19 Gallon Container",Active,1,,Part
+CL63R98470,"Printed Insert, NOVAPLUS, SHARPSTAR IN-ROOM Containers",Discontinued,2,,Part
+CL63R98471,"Printed Insert, NOVAPLUS, RCRA Waste Disposal Containers",Discontinued,2,,Part
+CL63R98472,"Printed Insert, NOVAPLUS, PharmaSafety Containers",Discontinued,2,,Part
+CL63R98473,"Printed Insert, NOVAPLUS, Large Volume Sharps Disposal Containers with Sliding Tops",Discontinued,2,,Part
+CL63R98474A,"Printed Insert, FISHER HEALTHCARE, Phlebotomy Sharps Containers Reorder No. 31325410",Active,1,,Part
+CL63R98475A,"Printed Insert, PREVENT, Private Label Phlebotomy Sharps Containers Reorder No. 065",Discontinued,1,,Part
+CL63R98477,"(COV) Printed Insert, Universal Pharmaceutical  Waste Disposal Containers",Discontinued,2,,Part
+CL63R98478,"(COV) Printed Insert, Universal Pharmaceutical  Waste Disposal Containers",Discontinued,2,,Part
+CL63R98479,"(COV) Printed Insert, Universal Pharmaceutical  Waste Disposal Containers",Discontinued,2,,Part
+CL63R98480,"(COV) Printed Insert, Universal Pharmaceutical  Waste Disposal Containers",Discontinued,2,,Part
+CL63R98482,"Printed Insert, Instruction Sheet, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers,Various Reorder Nos.",Active,1,,Part
+CL63R9869,"(COV) Printed Insert, IN-ROOM Sharps Disposal Units with Flap Doors, Various Reorder Nos.",Discontinued,3,,Part
+CL63R9869A,"(COV) Printed Insert, IN-ROOM Sharps Disposal Units with Flap Doors, Various Reorder Nos.",Active,0,,Part
+CL63R9870A,"(Cov) Printed Insert, Instruction Sheet,  IN-ROOM Sharps Lids",Discontinued,2,,Part
+CL63R9870B,"(Cov) Printed Insert, Instruction Sheet,  IN-ROOM Sharps Lids",Active,0,,Part
+CL63R9875,"(Cov) Printed Insert, Instruction Sheet, Sharps Containers",Discontinued,1,,Part
+CL63R9875A,"(Cov) Printed Insert, Instruction Sheet, Sharps Containers",Discontinued,1,,Part
+CL63R9876,"(Cov) Printed Insert, Instruction Sheet, Rotor Lid, Sharps Containers",Discontinued,1,,Part
+CL63R9876A,"(COV) Printed Insert, Instruction Sheet, Rotor Lid, Sharps Containers",Discontinued,2,,Part
+CL63R9876B,"(COV) Printed Insert, Instruction Sheet, Rotor Lid, Sharps Containers",Active,0,,Part
+CL63R9881,"(COV) Printed Insert, Instruction Sheet, Lid, Biohazard Container, Various Reorder Nos.",Discontinued,1,,Part
+CL63R9881A,"(COV) Printed Insert, Instruction Sheet, Lid, Biohazard Container, Various Reorder Nos.",Active,0,,Part
+CL63R9882A,"(COV) Printed Insert, Sharps and Chemotherepy Waste Disposal Containers",Discontinued,2,,Part
+CL63R9918A,"(COV) Printed Insert, CHEMOSAFETY Waste Disposal Container",Discontinued,2,,Part
+CL63R9918B,"(COV) Printed Insert, CHEMOSAFETY Waste Disposal Container",Discontinued,1,,Part
+CL63R9960,"(COV) Printed Insert, Sharps Disposal System, Various Reorder Nos",Discontinued,1,,Part
+CL63R9960A,"(COV) Printed Insert, Sharps Disposal System, Various Reorder Nos",Active,0,,Part
+CL63R9962,"(COV) Printed Insert, Sharps Disposal Containers with Rotor Openings and AUTODROP Funnels",Discontinued,1,,Part
+CL63R9962A,"(COV) Printed Insert, Sharps Disposal Containers with Rotor Openings and AUTODROP Funnels",Active,0,,Part
+CL63RR98416,Insert Sheet for 1 and 2 Gallon Private Label,Active,0,,Part
+CM285153315,"Folding Carton, Purple Enteral Feeding Syringe, 10mL, Reorder Number 410S",Discontinued,2,,Part
+CM285153491,"Unit Box, 12mL LK Softpack PTD32ECT",Discontinued,1,,Part
+CM285160000,Unit Box 12ml Soft Pack printed - Covidien,Active,1,,Part
+CM285160002,Unit Box 12ml Needle Soft Pack Covidien,Active,1,Compliant,Part
+CM285160036,"Folding Carton, Printed, 12mL Eccentric Syringe",Discontinued,2,,Part
+CM285160041,Unit Box 412mL Printed Part No. CM285160041,Discontinued,2,,Part
+CM285160042,Unit Box 12ml Vet-Pack Covidien,Discontinued,2,,Part
+CM285160043,Unit Box 12ml Combo Covidien,Discontinued,2,,Part
+CM285160043A,Unit Box 12ml Combo Covidien,Discontinued,1,,Part
+CM285160044,Unit Box 12ml Large Combo Covidien,Discontinued,2,,Part
+CM285160044A,Unit Box 12ml Large Combo Covidien,Discontinued,1,,Part
+CM285160048,Unit Box 12ml SR Covidien,Discontinued,2,,Part
+CM285160048A,Unit Box 12ml SR Covidien,Discontinued,1,,Part
+CM285160049,"Folding Carton, Printed, MONOJECT Syringe, 12mL, Eccentric Luer Tip, Reorder No. 8881512860",Discontinued,2,,Part
+CM285160049A,"Folding Carton, Printed, MONOJECT Syringe, 12mL, Eccentric Luer Tip, Reorder No. 8881512860",Discontinued,1,,Part
+CM285160050,"Folding Carton, Printed, MONOJECT Syringe, 12mL Luer Lock Tip, Reorder No. 8881512878",Discontinued,2,,Part
+CM285160050A,"Folding Carton, Printed, MONOJECT Syringe, 12mL Luer Lock Tip, Reorder No. 8881512878",Discontinued,1,,Part
+CM285160071,Corrugated Carton Smartip 12ml Covidien,Active,1,,Part
+CM285160072,Unit box 12ml Blunt Tip IV Access Covidien,Discontinued,2,,Part
+CM285160073,Unit Box 12ml blunt tip IV Access Soft Pack - Covidien,Discontinued,2,,Part
+CM285160092,Unit Box 10ml Amber Oral Med CE Mark,Discontinued,2,,Part
+CM285160093,Unit Box CE Mark 907S-O Med 10ml,Discontinued,2,,Part
+CM285350000,Print Mat 1181200555 12 SR Soft Pack - Covidien,Discontinued,2,,Part
+CM285350001,Print Mat 1181200777 12 LK Soft Pack - Covidien,Discontinued,2,,Part
+CM285350002,Print mat 1181218100 12ml 18x1 softpack,Discontinued,2,,Part
+CM285350003,Print Mat 1181220112 12ml 20 X 1 1/2 Softpack,Discontinued,2,,Part
+CM285350004,Print Mat 1181221100 12ml 21 X 1 Softpack,Discontinued,2,,Part
+CM285350005,Print Mat 1181221112 12ml 21 X 1 1/2 Softpack,Discontinued,2,,Part
+CM285350026,Print Mat 8881540122 w/SMRTP Cannula Softpack,Discontinued,2,,Part
+CM285350027,Print Mat 8881541208 12ml Blunt Tip IV Access Softpcak,Discontinued,2,,Part
+ENGINEERING,Engineering Run,Active,0,,Part
+EXP0112_28CM,"Silicone Fluid, DOW CORNING Number 360, 12500 centiStokes",Active,1,,Part
+EXP0120,"Silicone Fluid, Dow Corning 360, Medical Grade, 350 cSt",Active,1,Exempt,Part
+EXP1005_28CM,"Ink, Black, Cartridge, 2049",Active,1,,Part
+EXP1020,"Ink, Black, CAPEX 7600",Active,4,Non-Compliant,Part
+EXP5001,"Case Sealing Tape, 3 Inch, Clear, Reinforced",Active,4,,Part
+EXP5006,"TAPE 3"" KRAFT PLAIN 90#",Active,0,,Part
+EXP5011,"Case Sealing Tape, 3 Inch, Clear",Active,1,Compliant,Part
+EXP5013,"Container, Closing Tape 2 Inch, Clear Polreylene",Active,1,Compliant,Part
+EXP5050,"Printing Ribbon, Black, 8.66 Inch x 1476 Feet",Active,1,,Part
+EXP6001,"Rubber Band, No. 12",Active,1,Compliant,Part
+EXP6020,GLUE 34-25 HM160,Active,3,,Part
+EXP6021,"Ink Cartridge, Imaje No. 9154E-4",Active,1,,Part
+EXP6026,"INK, MAKE-UP, FLUID, MARKEM-IMAJE P/N 8188",Active,2,Compliant,Part
+EXP6027,"Ink Thinner, Apex Pad Printer, Capex 76F",Active,1,Non-Compliant,Part
+EXP6028,"Bell Mark Intelli Jet Ink Cartridge, IJ5007",Discontinued,2,,Part
+EXP6029,"Thermal Transfer Ribbon, General Wax, 4.33 Inch",Active,1,,Part
+EXP6030,"Blue Ink, PMS2945, Bell Mark, IK5933",Discontinued,2,,Part
+EXP6031,"Green Ink, PMS354, Bell Mark, IK6052",Discontinued,2,,Part
+EXP6032,"nk Ink, PMS1905, Bell Mark, IK6053",Active,3,,Part
+EXP6033,"Lavender Ink, PMS271, Bell Mark, IK6054",Discontinued,2,,Part
+EXPERIMENTAL,Experimental Run,Active,0,,Part
+HP108048,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Discontinued,2,,Part
+OP8909,1.5QT. SHARPS CONTAINER - 20,Discontinued,1,,Part
+OP8963,2 GA UNIVERSAL BRKT W/LOCK   5,Discontinued,1,,Part
+OP8984,"BRACKET, 8 GAL. SECURITY     5",Discontinued,1,,Part
+OP8991FP,FULL OPEN SHARPS CART        1,Active,0,Compliant,Part
+OP8993H,CART FOR BIOMAX WASTE CONT.  1,Discontinued,1,,Part
+PT00004155,"Label, Plain White, for the 1170/1155 Lot Gun, Marteck P/ FT-708",Active,0,,Part
+PT00004226,"Ink, Cartridge, Black, Markem-Image P/N 9175-9",Active,1,,Part
+PT00005149,"(COV) Printed Insert, RCRA Waste Disposal Containers, Various Reorder Nos.",Active,0,,Part
+PT00005151,"(COV) Product Label, RCRA Hazardous Waste, Various Reorder Nos.",Discontinued,1,,Part
+PT00005153,"(COV) Printed Insert, RCRA 5 Quart Waste Disposal Containers, Various Reorder Nos.",Active,0,,Part
+PT00005525,"Corrugated Case, Unprinted, Generic, 23 Inch x 13.625 Inch x 32 Inch",Active,0,,Part
+PT00005527,"Corrugated Partition, Unassembled, Unprinted, 16.625 Inch x 13.5 Inch",Active,0,,Part
+PT00006610,"(COV) Printed Product Label, Generic, Biohazard Waste Disposal Container, UDI Compliant",Active,0,,Part
+PT00006635,"COV) Product Label, Printed, Biohazard, Sharps Containers, Various Reorder Nos. UDI Compliant",Active,0,,Part
+PT00006643,"(COV) Printed Product Label, Generic, Biohazard Waste Disposal Container SHARPS-A-GATOR, Various Reorder Nos. UDI Compliant",Active,0,,Part
+PT00006646,"(COV) Product Label, Printed, Generic, CHEMOSAFETY Waste Disposal Container UDI Compliant",Active,0,,Part
+PT00006648,"(COV) Product Label, Printed, Generic, Waste Disposal Container, Various Reorder Nos. UDI Compliant",Preliminary,,,Part
+PT00006649,"(COV) Product Label, BIOMAX Regulated Medical Waste Container, Reorder Nos. 8998PG2, 8998SPG2, 8997PG2, 8997SPG2, 8932PG2, and 8936PG2 UDI Compliant",Preliminary,,,Part
+PT00006650,"(COV) Product Label, BIOMAX Regulated Medical Waste Container, Reorder Nos. 8998PG2, 8998SPG2, 8997PG2, 8997SPG2, 8932PG2, and 8936PG2 UDI Compliant",Active,0,Compliant,Part
+PT00006651,"(COV) Product Label, RCRA Hazardous Waste, Various Reorder Nos. UDI Compliant",Active,0,Compliant,Part
+PT00006652,"(COV) Product Label, Printed, 5.0 Inch x 6.75 Inch, PHARMASAFETY Containers, Various Reorder Nos. UDI Compliant",Active,0,Compliant,Part
+PT00006653,"Product Label, Printed, CHEMOMAX Regulated Medical Waste Container UDI Compliant",Active,0,Compliant,Part
+PT00006654,"(COV) Product Label, Printed, Generic, PHARMASTAR Waste Disposal Container UDI Compliant",Discontinued,1,,Part
+PT00006655,"(COV) Product Label, Printed, Canada, CHEMOSAFETY Waste Disposal Container, Various Reorder Nos. UDI Compliant",Active,0,Compliant,Part
+PT00006657,"Folding Carton, Printed, MONOJECT 10 mL Oral Syringe, CE Mark, UDI Compliant",Active,0,,Part
+PT00006658,"(COV) Printed Product Label, Generic, Biohazard Waste Disposal Container SHARPS-A-GATOR UDI Compliant",Discontinued,1,,Part
+PT00006659,"Product Label, Printed, SHARPS-A-GATOR Sharps Collection and Disposal System, UDI Compliant",Active,0,,Part
+PT00006660,"(COV) Product Label, Printed, Biohazard, Sharps Container Small Volume,Various Reorder Nos. UDI Compliant",Discontinued,1,,Part
+PT00006661,"(COV) Product Label, Printed, Biohazard, French/English, Reorder No. 8506YM UDI Compliant",Active,0,Compliant,Part
+PT00006662,"(COV) Printed Product Label, Waste Disposal Container, Reorder No. 8930SA UDI Compliant",Discontinued,1,,Part
+PT00006663,"Plastic Bag, Printed, AUTODROP Blood Needle Holder, 10.125 Inch x 15.5 Inch, Reorder No. 1500SA UDI Compliant",Preliminary,,,Part
+PT00006664,"(COV) Product Label, Printed, Generic, Biohazard, Waste Disposal Container, Reorder No. 8303BY UDI Compliant",Active,0,Compliant,Part
+PT00006666,Print Mat 1181200777 12 LK Soft Pack - Covidien UDI Compliant,Preliminary,,,Part
+PT00006667,Print Mat 8881540122 w/SMRTP Cannula Softpack UDI Compliant,Preliminary,,,Part
+PT00006671,"(COV) Product Label, Printed, Non-Infectious Glass Waste Disposal Container UDI Compliant",Active,0,Compliant,Part
+PT00006672,"Plastic Bag, Printed, AUTODROP Blood Needle Holder System UDI Compliant",Discontinued,1,,Part
+PT00006673,"Folding Carton, Printed, KANGAROO Purple Enteral Feeding Syringe, 10mL, UDI Compliant",Active,0,,Part
+PT00006674,"(COV)  Blank Label, 3 x1",Active,0,Compliant,Part
+PT00006677,"Product Label, Printed, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers,Various Reorder Nos. UDI Compliant",Active,0,Compliant,Part
+PT00006678,"Folding Carton, Printed, MONOJECT 12 mL Syringe with Standard Hypodermic Needle, 1 Inch Needle, UDI Compliant",Discontinued,1,,Part
+PT00006679,"Folding Carton, Printed, MONOJECT 12 mL Syringe with Standard Hypodermic Needle, 1.5 Inch, UDI Compliant",Discontinued,1,,Part
+PT00006680,"Folding Carton, Printed, MONOJECT Syringe IV Access, UDI Compliant",Discontinued,1,,Part
+PT00006681,Print Mat 8881541208 12ml Blunt Tip IV Access Softpcak UDI Compliant,Preliminary,,,Part
+PT00006682,"Folding Carton, Printed, MONOJECT 10 mL Oral Syringe, Amber, CE Mark, UDI Compliant",Active,0,,Part
+PT00006683,Print Mat 1181200555 12 SR Soft Pack - Covidien UDI,Preliminary,,,Part
+PT00006684,Print mat 1181218100 12ml 18x1 softpack UDI Compliant,Preliminary,,,Part
+PT00006685,Print Mat 1181220112 12ml 20 X 1 1/2 Softpack UDI Compliant,Preliminary,,,Part
+PT00006686,Print Mat 1181221100 12ml 21 X 1 Softpack UDI Compliance,Preliminary,,,Part
+PT00006687,Print Mat 1181221112 12ml 21 X 1 1/2 Softpack UDI Compliant,Preliminary,,,Part
+PT00006688,"COV) Product Label, Universal Pharmaceutical Hazardous Waste PART NO: CL63R4423A UDI Compliant",Active,0,Compliant,Part
+PT00007239,"Colorant, Red, Concentrate",Active,0,,Part
+PT00007240,"Resin, Linear Low Density Polyethylene (LLDPE), recycled",Active,0,,Part
+PT00007241,"Scrap Polypropylene Parts, Containers/Syringes",Active,2,,Part
+PT00007623,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Preliminary,,,Part
+PT00008981,"Resin, Polypropylene PF 535, ZN 126 VS Avant Catalyst",Active,2,,Part
+PT00009482,"Barrel, 12 mL",Discontinued,1,,Part
+PT00009962,"Cap, 12 mL, Thinwall, Clear",Active,1,,Part
+PT00009994,"Silicone Fluid, DOW CORNING Number 360, 12500 centiStokes",Active,0,Exempt,Part
+PT00010070,Unit Box 12 mL Soft Pack printed - Covidien UDI Compliant,Preliminary,,,Part
+PT00012105,"Printed Insert, Instruction Sheet, SHARPSAFETY Hinged Lid Sharps Containers, Various Reorder No.",Active,0,,Part
+PT00012137,"Printed Insert, Instruction Sheet, SHARPSAFETY Chemotherapy Container and Sharps Container, Various Reorder No.",Active,0,,Part
+PT00012138,"Printed Insert, Instruction Sheet, SHARPSAFETY Gasketed Hinged Lid Sharps and Chemotherapy Containers, Various Reorder No.",Active,0,,Part
+PT00012247,BIOMAX Foam in Place Lid,Active,0,,Part
+PT00012250,"Foam in Place (FIP) Gasketed Lid, Chemotherapy, 12 and 18 Gallon",Active,1,,Part
+PT00012251,"Foam in Place (FIP) Gasketed Lid, PharmaSafety, 12/18 Gallon",Active,0,,Part
+PT00012252,"Foam in Place (FIP) Gasketed Lid, Slide To[p, 12 and 18 Gallon Container, PGII",Active,1,,Part
+PT00012284,"Foam In Place Gasketed Lid, Chemotherapy, 8 Gallon",Active,0,,Part
+PT00012285,8 Gallon Slide Top Chemo Lid Foam in Place (FIP),Active,0,,Part
+PT00013692,"Gasketed Lid, Single Pass, 8 Gallon",Active,1,,Part
+PT00013694,"Gasketed Lid, Hinged, 12 and 18 Gallon Container, PGII",Active,2,,Part
+PT00013696,"Gasketed Lid, PharmaSafety, 8 Gallon Container",Active,0,,Part
+PT00013699,"Gasketed Lid, PharmaSafety, 12 and 18 Gallon",Active,0,,Part
+PT00013702,"Gasketed Lid, Hinged, Chemotherapy, 18 Gallon",Active,2,,Part
+PT00013703,"Gasketed Lid, Hinged, 12/18 Gallon",Active,2,,Part
+PT00013707,"Gasketed Lid, Hinged, 8 Gallon",Active,0,,Part
+PT00014491,"Top Corrugated Insert, Unprinted, 41.125 inch x 14.125 inch",Discontinued,1,,Part
+PT00014494,"Bottom Corrugated Insert, Unprinted, 39.6875 inch x 14.125inch",Discontinued,1,,Part
+PT00015630,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Eccentric Tip, UDI Compliant",Discontinued,1,,Part
+PT00015631,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Curved Tip (412), UDI Compliant",Active,0,,Part
+PT00015688,"Folding Carton, Printed, 12 mL Vet-Pack, UDI Compliant",Discontinued,1,,Part
+PT00015840,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Regular Tip, UDI Compliant",Active,0,,Part
+PT00015856,"Folding Carton, Printed, MONOJECT Syringe, 12 mL, Eccentric Luer Tip, UDI Compliant",Discontinued,1,,Part
+PT00015857,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Luer Lock Tip UDI Compliant",Active,0,,Part
+PT00016486,12/18 GALLON SLIDE TOP LID,Active,2,,Part
+PT00016490,12/18 GAL. HINGED CHEMO LID,Active,5,,Part
+PT00016495,"HINGED CHEMO LID, 12 & 18 GAL",Active,5,,Part
+PT00016498,WHITE 8 GAL HINGED LID (X9820),Active,3,,Part
+PT00016811,LID CHEMOBASE 12/18 GAL(X1363),Active,3,,Part
+PT00019097,"Sharps Container, Blue, 18 Gallon",Preliminary,,,Part
+PT00019730,Tortuous Door,Active,1,,Part
+PT00030058,"Spring, Hook Retainer, Full Open Foot Pedal Cart",Discontinued,1,,Part
+PT00031289,Ink Cartridge HP Carton Black Plus IJ5023,Active,0,,Part
+PT00033501,"Printed Insert, SHARPS-A-GATOR Sharps Container with Slide Top",Active,0,,Part
+PT00033502,Insert Sheet for 2-1/2 and 5 Quart,Active,0,,Part
+PT00033969,"Ink, Black, CAPEX 9100 Dense",Active,0,Non-Compliant,Part
+PT00033970,"Ink, Black, Bell-Mark IJ1910",Active,0,,Part
+PT00033971,"Ink, Solvent X, Black, Bell Mark IJ5030",Active,0,Compliant,Part
+PT00033972,"Ink, Black, ColorBond UV SPM V6 PN: 1460566-01LT, Reorder# D-831-0036",Active,1,,Part
+PT00034294,"Instructions for Use (IFU) Insert, McKesson Private Label, 8 Gallon, Reorder No. 80-8705",Active,0,,Part
+PT00034301,"Label, Printed, Biohazard, McKesson Waste Disposal Container, Reorder No. 047",Active,0,Compliant,Part
+PT00034305,"Instructions for Use (IFU) Insert, McKesson, Private Label Phlebotomy Sharps Containers Reorder No. 065",Active,0,,Part
+PT00034306,"Label,  Printed, McKesson, Private label, BioHazard Waste Disposal Containers Reorder No. 065",Active,0,Compliant,Part
+PT00034375,"Instructions for Use (IFU) Insert, McKesson Private Label, Sharps Containers, Reorder No. 044",Preliminary,,,Part
+PT00034377,"Instructions for Use (IFU) Insert, 2 Gallon, McKesson Private Label",Active,0,,Part
+PT00034434,"Label, Printed, Product, McKesson Private Label, Reorder No. 80-8705",Discontinued,1,,Part
+PT00034764,"Plunger, 12 mL, 3 Lobe Hybrid",Active,0,,Part
+PT00035052,"Syringe Assembly, 12 mL, Wide Finger Flange, Bulk Pack",Pilot,0,,Part
+PT00044728,1 Slot Unassembled Partition  16.00 Inch X 14.00 Inch,Active,0,,Part
+PT00044732,1 Slot Unassembled Partition  16.00 Inch X 20.375 Inch,Active,0,,Part
+PT00044733,Corrugated Insert 5.625 Inch X 6.625 Inch,Active,0,,Part
+PT00046145,"Label, Printed, Product, McKesson Private Label, Reorder No. 80-8705",Active,0,Compliant,Part
+PT00046937,"Overshipper Label, Preprinted with Fisherbrand Logo",Active,0,Compliant,Part
+PT00047916,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Regular Tip, 100 Count, UDI Compliant",Preliminary,,,Part
+PT00047930,"Product Label, Printed, Fisherbrand (Private Label) 1 Quart Phlebotomy Container, UDI Compliant, Various Reorder Nos.",Active,0,Compliant,Part
+PT00047934,"Product Label, Printed, Private Label, Fisherbrand, Biohazard Waste Disposal Containers, Reorder No. 31325410",Active,0,Compliant,Part
+PT00048792,3x5 Ziploc bag,Active,0,,Part
+PT00049167,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Discontinued,1,,Part
+PT00049845,Corrugated Case 14.375? X 13.375? X 23?,Active,0,,Part
+PT00049846,Corrugated Pad 14.25? x 23?,Active,0,,Part
+PT00050012,"Scored Lid Retention Insert for 18 Gallon Container, Unprinted",Preliminary,,,Part
+PT00050783,"Barrel, 12 mL, SR, P5M6K-080, ISO Compliant Tip",Active,0,,Part
+PT00052251,"Barrel, 12 mL, SR, P5M6K-080 with Fill Ring",Active,1,,Part
+PT00052252,"Molded Component, Barrel, 12 mL Luer Slip  PF535",Discontinued,1,,Part
+PT00052518,"(COV) Printed Insert, 1 Quart Transportable Container, Reorder Nos. 8303BY and 8303SA",Active,0,,Part
+PT00052701,Liquid Trans Red,Active,2,,Part
+PT00053980,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Discontinued,1,,Part
+PT00055216,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Active,0,Compliant,Part
+PT00055729,"Print Cliché, Biohazard Label for SHARP SAFETY Sharps Container, Black Portion",Active,1,,Part
+PT00055730,"Print Cliché, Biohazard Label for SHARP-A-GATOR Sharps Container, Black Portion",Active,1,,Part
+PT00059874,"(COV) Printed Product Label, Waste Disposal Container, Reorder No. 8930SA UDI Compliant",Discontinued,1,,Part
+PT00062563,Yellow Liquid Colorant,Active,1,,Part
+PT00062605,"Print Cliché, Biohazard Label for Sharps Container, Orange Portion",Active,0,,Part
+PT00065936,Red Liquid Colorant,Active,1,,Part
+PT00065939,Trans Yellow Liquid Colorant,Active,1,,Part
+PT00065942,White Liquid Colorant,Active,2,,Part
+PT00065943,Blue Liquid Colorant,Active,1,,Part
+PT00067912,"Printed Instruction for Use (IFU), Generic, SHARPS-A-GATOR Sharps Container",Active,0,,Part
+PT00067913,"Printed Instruction for Use (IFU) , SHARPS-A-GATOR, Sharps Containers with Counterbalance Lid, Various Reorder Nos.",Active,0,,Part
+PT00067914,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Hinged Lid with Snap Cap",Active,0,,Part
+PT00067915,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Counterbalance Lid",Active,0,,Part
+PT00067916,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Hinged Lid",Active,0,,Part
+PT00067917,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Slide Lid",Active,0,,Part
+PT00068683,"Product Label, Printed, Generic, With Fill Line, CHEMOSAFETY Waste Disposal Container, UDI Compliant",Active,0,Compliant,Part
+PT00068726,Resin PP Braskem C719-35RNHP,Preliminary,,,Part
+PT00068727,Resin PP Equistar XEP-3246,Preliminary,,,Part
+PT00068803,"Product Label, Printed, 5.0 Inch x 6.75 Inch, PHARMASAFETY Containers, with fill line Various Reorder Nos. UDI Compliant",Active,0,Compliant,Part
+PT00068805,"Product Label, Printed, Generic, SHARP SAFETY Waste Disposal Container UDI Compliant",Active,0,Compliant,Part
+PT00068806,"Product Label, Printed, Biohazard, Sharps Container Small Volume,Various Reorder Nos. UDI Compliant",Active,0,Compliant,Part
+PT00068808,"Printed Product Label, Waste Disposal Container, Reorder No. 8930SA UDI Compliant",Active,0,Compliant,Part
+PT00069525,"Gatorguard, Lid Assembly for 5 Quart",Active,0,,Part
+PT00071338,Orange Dot,Preliminary,,,Part
+PT00073444,"Collection Container, Blue, 18 Gallon",Active,2,,Part
+PT00075579,"Gatorguard, Lid Assembly for 2 Gallon and 3 Gallon",Active,1,,Part
+PT00075580,"RCRA Lid Assembly, Black",Active,1,,Part
+PT00075593,"Label, Biohazard, Sustainable Technologies 18 Gallon Container",Preliminary,,,Part
+PT00077021,"Barrel, 12 mL Amber",Discontinued,1,,Part
+PT00080367,"Unit Box, Syringe, 12 mL, Enteral Feed, Amber",Preliminary,,,Part
+PT00081770,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Preliminary,,,Part
+PT00089213,"Label, Biohazard Used Medical Device",Active,1,Compliant,Part
+PT00089214,"Label, No Sharps, No Waste, No Batteries",Active,1,Compliant,Part
+PT00093137,"Product Label, Printed, Canada, CHEMOSAFETY Waste Disposal Container, Cardinal Branded Various Reorder Nos.",Preliminary,,,Part
+PT00093138,"Printed Product Label, Generic, Biohazard Waste Disposal Container, Cardinal Branded",Preliminary,,,Part
+PT00093139,"Product Label, Printed, Biohazard, Sharps Containers, Cardinal Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093140,"Printed Product Label, Generic, Biohazard Waste Disposal Container SHARPS-A-GATOR, Cardinal Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093141,"Product Label, Printed, Generic, CHEMOSAFETY Waste Disposal Container, Cardinal Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093142,"Product Label, BIOMAX Regulated Medical Waste Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093143,"Product Label, RCRA Hazardous Waste, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093144,"Product Label, Printed, PHARMASAFETY Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093145,"Product Label, Printed, CHEMOMAX Regulated Medical Waste Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093146,"Product Label, Printed, Generic, SHARP SAFETY Waste Disposal Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093147,"Product Label, Printed, Canada, CHEMOSAFETY Waste Disposal Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093149,"Product Label, Printed, SHARPS-A-GATOR Sharps Collection and Disposal System, Cardinal Health Branded",Preliminary,,,Part
+PT00093150,"Product Label, Printed, Biohazard, Sharps Container Small Volume, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093151,"Product Label, Printed, Biohazard, French/English, Cardinal Health Branded, Reorder No. 8506YM",Preliminary,,,Part
+PT00093153,"Printed Product Label, Waste Disposal Container, Cardinal Health Branded, Reorder No. 8930SA",Preliminary,,,Part
+PT00093154,"Product Label, Printed, Non-Infectious Glass Waste Disposal Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093155,"Plastic Bag, Printed, AUTODROP Blood Needle Holder System, Cardinal Health Branded, Reorder No. 1510SA",Preliminary,,,Part
+PT00093156,"Product Label, Printed, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093157,"Product Label, Universal Pharmaceutical Hazardous Waste, Cardinal Health Brand, Various Reorder Nos.",Preliminary,,,Part
+PT00093158,"Product Label, Printed, Generic, Waste Disposal Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093162,"Unit Box, Syringe, 12 mL, Enteral Feed, Cardinal Health Branded, Reorder No. 412SE",Preliminary,,,Part
+PT00093163,"Unit Box, Syringe, 12 mL, Soft Pack, Cardinal Health Branded, Reorder No. 1181200777",Preliminary,,,Part
+PT00093164,"Corrugated Carton, SMARTIP, 12 mL, Cardinal Health Branded, Reorder No. 8881540122",Preliminary,,,Part
+PT00093165,"Folding Carton, Printed, MONOJECT 10 mL Oral Syringe, CE Mark, Cardinal Health Branded, Reorder No. 8881907102",Preliminary,,,Part
+PT00093166,"Folding Carton, Printed, KANGAROO Purple Enteral Feeding Syringe, 10 mL, Cardinal Health Branded, Reorder No. 410S",Preliminary,,,Part
+PT00093167,"Folding Carton, Printed, MONOJECT 10 mL Oral Syringe, Amber, CE Mark, Cardinal Health Branded, Reorder No. 8881907003",Preliminary,,,Part
+PT00093168,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Curved Tip (412), Cardinal Health Branded, Reorder No. 8881412012",Active,1,,Part
+PT00093169,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Regular Tip, Cardinal Health Branded, Reorder No. 8881512852",Active,1,,Part
+PT00093170,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Luer Lock Tip, Cardinal Health Branded, Reorder No. 8881512878",Active,1,,Part
+PT00093179,"Instructions for Use (IFU), Sharps Container, 30 Gallon, Cardinal Health Branded, Reorder No. 8930SA",Preliminary,,,Part
+PT00093180,"Printed Insert, Assembly and Usage Instructions, Cardinal Health Branded, Reorder No. 8964",Preliminary,,,Part
+PT00093181,"Printed Insert, Instruction Sheet, PHARMASAFETY Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093182,"Printed Insert, Instruction Sheet, AUTODROP Holder, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093183,"Printed Insert, 1 Quart Transportable Container, Cardinal Health Branded, Reorder Nos. 8303SA",Preliminary,,,Part
+PT00093184,"Printed Insert, SHARPSTAR IN-ROOM Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093185,"Printed Insert, Phlebotomy 1 Quart Sharps Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093187,"Printed Insert, AUTODROP Blood Needle Holder System, Cardinal Health Branded, Reorder No. 1510SA",Preliminary,,,Part
+PT00093188,"Printed Insert, IN-ROOM Sharps Disposal System, Covidien Health Branded, Reorder No. 8556H",Preliminary,,,Part
+PT00093189,"Printed Insert, SHARPSAFETY Non-Infectious Glass Waste, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093190,"Printed Insert, Generic, SHARPS-A-GATOR Sharps Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093191,"Printed Instruction for Use (IFU), Generic, SHARPS-A-GATOR Sharps Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093192,"Printed Insert, Instruction Sheet, 2-1/2 and 5 Qurat Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093193,"Printed Insert, Instruction Sheet, Absorbent Pads, Sharps Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093194,"Printed Instruction for Use (IFU) , SHARPS-A-GATOR, Sharps Containers with Counterbalance Lid, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093196,"IFU, Absorbant Pads, Large, 9-7/8 Inch x 6 Inch, Cardinal Health Branded, Reorder No. 8930SA",Preliminary,,,Part
+PT00093197,"Printed Insert, SHARPS-A-GATOR and CHEM-O-GATOR 19 Gallon Container, Cardinal Health Branded, Reorder No. 31378089",Preliminary,,,Part
+PT00093198,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Hinged Lid with Snap Cap, Cardinal Health Branded",Preliminary,,,Part
+PT00093200,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Counterbalance Lid, Cardinal Health Branded",Preliminary,,,Part
+PT00093201,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Hinged Lid, Cardinal Health Branded",Preliminary,,,Part
+PT00093202,"Printed Instruction for Use (IFU), Universal Pharmaceutical  Waste Disposal Containers, Slide Lid, Cardinal Health Branded",Preliminary,,,Part
+PT00093203,"Printed Insert, Instruction Sheet, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers, Cardinal Health Branded",Preliminary,,,Part
+PT00093204,"Printed Insert, IN-ROOM Sharps Disposal Units with Flap Doors, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093205,"Printed Insert, Instruction Sheet,  IN-ROOM Sharps Lids, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093206,"Printed Insert, Instruction Sheet, SHARPSAFETY Hinged Lid Sharps Containers, Cardinal Health Branded, Various Reorder No.",Preliminary,,,Part
+PT00093207,"Printed Insert, Instruction Sheet, Rotor Lid, Sharps Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093220,"Printed Insert, Instruction Sheet, Lid, Biohazard Container, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093221,"Printed Insert, Instruction Sheet, SHARPSAFETY Chemotherapy Container and Sharps Container, Cardinal Health Branded, Various Reorder No.",Preliminary,,,Part
+PT00093222,"Printed Insert, Instruction Sheet, SHARPSAFETY Gasketed Hinged Lid Sharps and Chemotherapy Containers, Cardinal Health Branded",Preliminary,,,Part
+PT00093223,"Printed Insert, Sharps Disposal System, Cardinal Health Branded, Various Reorder Nos",Preliminary,,,Part
+PT00093224,"Printed Insert, Sharps Disposal Containers with Rotor Openings and AUTODROP Funnels, Cardinal Health Branded, Reorder No. 1522SA",Preliminary,,,Part
+PT00093225,"Printed Insert, RCRA Waste Disposal Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093237,"Printed Insert, RCRA 5 Quart Waste Disposal Containers, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093238,"Printed Insert, SHARPS-A-GATOR Sharps Container with Slide Top, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093239,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8512",Preliminary,,,Part
+PT00093240,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8900",Preliminary,,,Part
+PT00093241,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8970",Preliminary,,,Part
+PT00093242,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8980",Preliminary,,,Part
+PT00093243,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8985",Preliminary,,,Part
+PT00093244,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8536",Preliminary,,,Part
+PT00093245,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8506",Preliminary,,,Part
+PT00093246,"Corrugated Case, Printed,  NovaPlus, Cardinal Health Branded, Reorder No. V8618",Preliminary,,,Part
+PT00093247,"Corrugated Case, Printed, NovaPlus, Cardinal Health Branded, Reorder No. V8870",Preliminary,,,Part
+PT00093249,Insert Sheet for 1 and 2 Gallon Private Label,Preliminary,,,Part
+PT00093250,"Insert Sheet for 5 Quart, Cardinal Health Branded, Reorder No. 31323176",Preliminary,,,Part
+PT00093254,"Printed Insert, Instruction Sheet, Drywall Anchors, Cardinal Health Branded, Reorder No. 8556H",Preliminary,,,Part
+PT00093255,"Printed Label, Waste Disposal Container, Lid Instructions, Generic, Cardinal Health Branded, Various Reorder Nos.",Preliminary,,,Part
+PT00093257,"Printed Label, Non-Hazardous, Non-Biohazard, Pharmaceutical Waste Containers, Lid Instructions, Cardinal Health Branded",Preliminary,,,Part
+PT00093258,"Product Label, Printed, Generic, With Fill Line, CHEMOSAFETY Waste Disposal Container, Cardinal Health Branded, Reorder No. 8982",Preliminary,,,Part
+PT00095915,"Printed Product Label, Generic, Biomax Dot, Sharps Disposal",Preliminary,,,Part
+PT00096177,"PharmaSafety Lid, Door and Cowl",Active,1,,Part
+PT00096202,"FIP Gasketed Lid, Hinged, 12 and 18 Gallon Container, PGII, Sustainable Technologies",Active,2,,Part
+PT00096237,2GAL FIP SNAP CAP  Sustainable Technologies,Active,2,,Part
+PT00097045,"Label, Hazardous Waste Pharmaceutical",Active,1,Compliant,Part
+PT00098902,"Folding Carton, Printed, MONOJECT 10 mL Oral Syringe",Preliminary,,,Part
+PT00098904,Corrugated Carton Smartip 12ml Covidien,Preliminary,,,Part
+PT00098905,"Folding Carton, Printed, MONOJECT 12 mL Syringe, Curved Tip (412)",Preliminary,,,Part
+PT00098906,"Folding Carton, Printed, KANGAROO Purple Enteral Feeding Syringe, 10mL",Preliminary,,,Part
+PT00098907,"Folding Carton, Printed, MONOJECT 10 mL Oral Syringe, Amber",Preliminary,,,Part
+PT00101988,412 Printed Barrel  Phantom Rebranded,Active,1,,Part
+PT00102303,"Product Label, Printed, 5.0 Inch x 6.75 Inch, PHARMASAFETY Containers, with fill line Various Reorder Nos.",Preliminary,,,Part
+PT00102326,"Insert Sheet, Printed, Enteral Syringe, Various Reorder No.",Preliminary,,,Part
+PT00103021,"Resin, Polypropylene Impact Copolymer, Philips 66 COPYLENE CM350LN",Active,1,,Part
+PT00104294,"Sharp Container (SB), Red, 10 Ga",Active,2,,Part
+PT00104295,"Sharps Container (SB), Yellow, 10 Gallon",Active,2,,Part
+PT00104798,"Resin, Polypropylene, Impact Copolymer, Pro-Fax SG722",Active,1,,Part
+PT00105429,Red 2 Gallon Container,Preliminary,,,Part
+PT00105654,"Thermal Transfer Ribbon, General Wax, 2 Inch",Preliminary,,,Part
+PT00106609,"Printed Product Label, Generic, Biohazard Waste Disposal Container MONOJECT, Nova Plus, Various Reorder Nos.",Preliminary,,,Part
+PT00106625,"Printed Product Label, Generic, CHEMOTHERAPY Container,  MONOJECT, Nova Plus, Reorder No. V8985",Preliminary,,,Part
+PT00106626,"Printed Product Label, RCRA Hazardous Waste, MONOJECT, Nova Plus, Reorder No. V8616",Preliminary,,,Part
+PT00106627,"Printed Product Label, Pharmaceutical Waste Container, MONOJECT, Nova Plus, Reorder No. V8870",Preliminary,,,Part
+R1025C,"Corrugated Case, Printed, Generic, 11.5 Inch x 8.0 Inch x 6.5 Inch",Discontinued,1,,Part
+R1025D,"Corrugated Case, Printed, Generic, 11.5 Inch x 8.0 Inch x 6.5 Inch",Active,0,,Part
+R1035,"Corrugated Divider, Unprinted, 33-1/8 Inch x 20-3/4 Inch",Active,1,,Part
+R1040E,"Corrugated Case, Printed, Generic, 25.375 Inch x 14.25 Inch x 10.6875 Inch",Discontinued,2,,Part
+R1057,H-DIVIDER FOR 8950SA,Active,0,,Part
+R1073C,"Corrugated Case, Printed, Generic, 14.375 Inch x 7.875 Inch x 6.5 Inch",Active,0,,Part
+R1073D,"Corrugated Case, Printed, Generic, 14.375 Inch x 7.875 Inch x 6.5 Inch",Active,0,,Part
+R1075,Z-PAD FOR 85321R,Active,0,,Part
+R1106A,INNER CARTON FOR 1 QUART,Active,0,,Part
+R1128B,"Corrugated Case, Printed, Generic, 14.875 Inch x 11.5 Inch x 6.625 Inch",Discontinued,1,,Part
+R1146E,"Corrugated Case, Printed Generic, 20.25 Inch x 17.625 Inch x 14.5 Inch",Discontinued,2,,Part
+R1149,"Corrugated Inner Carton, Unprinted, 12-3/4 Inch x 4-3/4 Inch x 15 Inch",Active,1,,Part
+R1156B,"Corrugated Case, Printed, Generic, 10.5 Inch x 5.75 Inch x 4.625 Inch",Discontinued,1,,Part
+R1156C,"Corrugated Case, Printed, Generic, 10.5 Inch x 5.75 Inch x 4.625 Inch",Active,0,,Part
+R1158,DIVIDER FOR 8920,Active,0,,Part
+R1159,INNER CARTON FOR 8920,Active,0,,Part
+R1160D,"Corrugated Case, Printed, Generic",Active,0,,Part
+R1246D,"Corrugated Case, Printed, Generic, 25.375 Inch x 14.25 Inch x 10.6875 Inch",Active,1,,Part
+R1292C,O/S FOR 12 GALLON,Discontinued,0,,Part
+R1292D,"Corrugate Case, Printed, Generic, Sharps and Chemotheraoy Waste Containers",Active,0,,Part
+R1293C,"Corrugated Case, Printed, Generic, 21.5 Inch x 7.1875 Inch x 12.25 Inch",Discontinued,1,,Part
+R1293D,"Corrugated Case, Printed, Generic, 21.5 Inch x 7.1875 Inch x 12.25 Inch",Active,0,,Part
+R1300D,"Corrugated Case, Printed, Generic, 20.25 Inch x 17.0 Inch x 21.0 Inch",Active,0,,Part
+R1302C,O/S FOR 1522SA,Discontinued,1,,Part
+R1302D,"Corrugated Case, printed, Generic, 29.625 Inch X 13.125 Inch X 15.0 Inch",Active,0,,Part
+R1306D,"Corrugated Case, Printed, Generic",Active,0,,Part
+R1308D,"Corrugated Case, Printed, Generic, 23.5 Inch x 14.125 Inch x 13.875 Inch",Active,0,,Part
+R1310D,"Corrugated Case, Printed, Generic, 14.25 Inch x 10.375 Inch x 24.00 Inch",Discontinued,2,,Part
+R1317C,O/S 2GAL. GENERIC FOR 8535,Discontinued,1,,Part
+R1317D,Overshipper 25 Gallon Generic for 8535,Active,0,,Part
+R1320D,"Corrugated Case, Printed, Generic, 24-7/8 Inch x 17-1/4 Inch x 10-7/8 Inch",Active,1,,Part
+R1321E,"Corrugated Case, Printed, Generic, 20.25 Inch x 17.625 Inch x 14.5 Inch",Discontinued,2,,Part
+R1324C,OVERSHIPPER FOR 85021,Discontinued,1,,Part
+R1324D,Overshipper for 85021,Active,0,,Part
+R1333C,OVERSHIPPER FOR 1511,Discontinued,1,,Part
+R1333D,Overshipper for 1511,Discontinued,1,,Part
+R1334C,O/S 1/2GAL. ALWS OPEN SHP.CNT.,Discontinued,0,,Part
+R1338C,OVERSHIPPER FOR 1510,Discontinued,1,,Part
+R1338D,Overshipper for 1510,Discontinued,1,,Part
+R1348D,"Corrugated Case, Printed, Generic, 19.0 Inch x 10.875 Inch x 11.25 Inch",Discontinued,1,,Part
+R1363C,OVERSHIPPER FOR 8961,Discontinued,0,,Part
+R1365C,OVERSHIPPER FOR 8982-AC,Discontinued,0,,Part
+R1367C,OVERSHIPPER FOR 8301,Discontinued,1,,Part
+R1367D,"Corrugated Case, Printed, Generic, 7 Inch x 4.563 Inch x 11.75 Inch",Discontinued,1,,Part
+R1368E,"Corrugated Case, Printed, Generic, 6.5625 Inch x 4.125 Inch x 11.00 Inch",Discontinued,1,,Part
+R1378A,OVERSHIPPER FOR 8303,Discontinued,1,,Part
+R1378B,"Corrugated Case, Printed, Generic, 21.0 Inch x 10.125 Inch x 8.8125 Inch",Active,0,,Part
+R1398E,"Corrugated Case, Printed, Generic, 25.25 Inch x 21.875 Inch x 10.625 Inch",Discontinued,2,,Part
+R1399,"Corrugated Z-Pad, Unprinted, 46-7/8 Inch x 10-5/8 Inch",Discontinued,2,,Part
+R1436,"Corrugated U-Pad, Unprinted, 33-1/2 Inch x 10-5/8 Inch",Discontinued,2,,Part
+R1445B,OVERSHIPPER FOR 8932AC/8860AC,Discontinued,1,,Part
+R1445C,Overshipper for 8932AC and 8860AC,Discontinued,1,,Part
+R1471B,"Corrugated Case, Printed, Generic, 31.0 Inch x 12.5 Inch x 13.875 Inch",Active,0,,Part
+R1472,2-SHAPED SPACER 8930SA (X1602),Discontinued,1,,Part
+R1474,"Corrugated Divider, Unprinted, 39-3/8 Inch x 11 Inch",Active,0,,Part
+R1475,INSRT 30GAL CONT 8930SA(X1610),Discontinued,1,,Part
+R1481A,OVERSHIPPER FOR 8958,Discontinued,1,,Part
+R1481B,Overshipper for 8958,Active,0,,Part
+R1516A,OVERSHIPPER (CART),Discontinued,1,,Part
+R1517,SCORED SHEET,Discontinued,1,,Part
+R1518,SLIT SCORED SHEET,Discontinued,1,,Part
+R1519,SCORED SHEET,Discontinued,1,,Part
+R1520,DIE CUT TRAY,Discontinued,1,,Part
+R1528A,"Corrugated Case, Printed, Generic, 20.375 Inch x 14.0 Inch x 15.75 Inch",Active,1,,Part
+R1535,SCORED SHEET PHLEBOTOMY(88014),Discontinued,0,,Part
+R1536A,OVERSHIPPER,Discontinued,0,,Part
+R1537,DIVIDER PAD FOR FISHER(882761),Discontinued,0,,Part
+R1538B,RM10004101 has been revised to part R1538B.  Correcting part#.,Discontinued,0,,Part
+R1543B,"Corrugated Case, Printed, Generic, 16.375 Inch x 9.375 Inch x 3.75 Inch",Discontinued,1,,Part
+R1563A,O/S FOR 7-1/2 GAL,Discontinued,1,,Part
+R1563B,Overshipper for 7-1/2 Gallon,Discontinued,1,,Part
+R1564,DIVIDER PAD FOR 10 GALLON,Discontinued,1,,Part
+R1565A,OVERSHIPPER FOR 7 & 10 GALLON,Discontinued,1,,Part
+R1565B,Overshipper for 7 & 10 Gallon,Active,0,,Part
+R1566,GLUED TUBE FOR 10 GAL,Discontinued,1,,Part
+R1567,"Corrugated Divider, Unprinted, 36 Inch x 16-3/8 Inch",Active,1,,Part
+R1568,SLEEVE FOR LID 7 GALLON CONT,Discontinued,1,,Part
+R1591A,O/S FOR 2 GALLON,Discontinued,1,,Part
+R1591B,Overshipper for 2 Gallon,Discontinued,1,,Part
+R1592,"Corrugated Partition, Unprinted, 16-1/16 Inch x 25-3/4 Inch",Discontinued,1,,Part
+R1593,"Corrugated Partition, Unprinted, 16-1/6 Inch x 14-5/8 Inch",Discontinued,1,,Part
+R1594,O/S FOR KEYS - HIDDEN BRACKET,Active,0,,Part
+R1603B,"Corrugated Case, Printed, NOVAPLUS 2 Gallon Sharps Disposal Container, Reorder No. V8970",Discontinued,2,,Part
+R1604,SCORED SHEET INSERT FOR 12 GAL,Discontinued,1,,Part
+R1606,Z PAD FOR SSIV,Active,0,,Part
+R1608,SCORED SHT. FOR 3 GAL. SSIV,Discontinued,1,,Part
+R1612A,O/S FOR SSIV CONTAINER,Active,0,,Part
+R1612B,Overshipper for SSIV Container,Active,0,,Part
+R1626,OVERSHIPPER FOR 8549SA,Active,0,,Part
+R1626A,Overshipper for 8549SA,Active,0,,Part
+R1635,O/S FOR 8556H,Discontinued,0,,Part
+R1635A,"Corrugated Case. Printed, Generic, 19.00 Inch x 12.9375 Inch x 5.125Inch",Active,1,,Part
+R1637,CORRUGATED SCORED UNPRINTED SH,Discontinued,1,,Part
+R1638A,Correct artwork part to match RMPS,Discontinued,1,,Part
+R1644A,"Corrugated Case, Printed, Generic, 19-3/8 Inch x 15-1/8 Inch x 21-7/8 Inch",Active,1,,Part
+R1648,"Corrugated 1 Slot Partition, Unprinted, 4-3/8 Inch x 16 Inch",Discontinued,2,,Part
+R1653,"Corrugated Case, Printed, Generic, 19.375 Inch x 15.125 Inch x 21.875 Inch, Reorder No. V8980",Discontinued,2,,Part
+R1654,"Corrugated Case, Printed, Generic, 19-3/8 Inch x 15-1/8 Inch x 21-7/8 Inch",Discontinued,2,,Part
+R1674,SCORED SHEET FOR SSIV,Active,0,,Part
+R1676,O/S FOR SYRINGE TRANSFER CUP,Discontinued,0,,Part
+R1678B,O/S FOR 2-1/2 & 5 QT,Discontinued,1,,Part
+R1678C,"Corrugated Case, Printed, Generic, 23 Inch x 13.625 Inch x 30.625 Inch",Discontinued,1,,Part
+R1679,PAD FOR 5 QT. & 2-1/2 QT,Active,0,,Part
+R1680,PARTITION FOR 5 QT & 2-1/2 GAL,Active,0,,Part
+R1681,PARTITION  FOR 2-1/2 & 5 QT,Active,0,,Part
+R1682A,"Corrugated Case, Printed, 23-3/8 Inch x 19-5/8 Inch x 27-7/16 Inch",Discontinued,2,,Part
+R1683,"Corrugate Partition, Unprinted, 13-1/4 Inch x 23-1/4 Inch",Active,1,,Part
+R1684,"Corrugated Pad, Unprinted, 19-1/2 Inch x 23-1/4 inch",Active,1,,Part
+R1685,"Corrugated Insert, Unprinted, 35-5/8 Inch x 35-1/2 Inch",Active,1,,Part
+R1686,"Corrugate 2-Slot Partition, Unprinted, 13-1/4 Inch x 19-1/2 Inch",Active,1,,Part
+R1690,"Corrugated Case, Unprinted, 18.750 Inch x 12.375 Inch x 42.6875 Inch",Active,1,,Part
+R1693,O/S FOR 3-1/2 GAL CONT,Active,0,,Part
+R1694,U-PAD SCORED INSERT 3-1/2 GAL,Active,0,,Part
+R1695,INSERT DIVIDER FOR 3-1/2 GAL,Active,0,,Part
+R1697,UNPRINTED O/S FOR 1 GA GP,Active,0,,Part
+R1698,"Corrugated Divider, Unprinted, 33.625 Inch x 20.25 Inch",Active,1,,Part
+R1700,"Scored Lid Retention Insert, 18 Gallon B Tool, Unprinted",Active,1,,Part
+R1701,O/S 3 Gallon In Room Container,Active,0,,Part
+R1703,D/C INSERT 44 3/16 X 12 1/4,Active,0,,Part
+R1704,O/S FOR THE SHARP STAR II,Active,0,,Part
+R1705,SHARP STAR II INSERT DIVIDER,Active,0,,Part
+R1706,O/S FOR  V8536,Discontinued,1,,Part
+R1713,"Corrugate Case, Unprinted, 20-1/4 Inch x 17-5/8 Inch x 14-1/2 Inch",Discontinued,1,,Part
+R1715,"Corrugate Case, Unprinted, 14-1/4 Inch x 10-3/8 Inch x 24 Inch",Discontinued,1,,Part
+R1720,"Corrugate Case, Unprinted, 23.375 Inch x 19.625 Inch x 27.4375 Inch",Active,1,,Part
+R1722,"Corrugate Case, Unprinted, 24 Inch x 15-1/2 Inch x 25-3/4 Inch",Discontinued,1,,Part
+R1725,"Corrugate Case, Unprinted, 23 Inch x 13-5/8 Inch x 30-5/8 Inch",Discontinued,1,,Part
+R1740,"Corrugated Case, Unprinted, 20.375 Inch x 14.0 Inch x 15.75 Inch",Discontinued,1,,Part
+R1741,UNPRINTED O/S FOR 30 GALLON,Active,0,,Part
+R1742,GUIDE BRACKET FOR FP CART,Discontinued,1,,Part
+R1748,"Corrugated Case, Unprinted, 16.250 Inch x 16.250 Inch x 41.875 Inch, Reorder Nos. 31378089 and 31378097",Active,1,,Part
+R1749,"Corrugated Scored Sheet, Unprinted, 15.875 Inch x 38.375 Inch, Holds 3 EA Lids, Reorder Nos. 31378089 and 31378097",Active,1,,Part
+R1750,"Corrugated Scored Sheet, Unprinted, 30.125 Inch x 10.250 Inch, Supports 2 Lids, Reorder Nos. 31378089 & 31378097",Active,1,,Part
+R1766,"Corrugated Case, Unprinted, 14.125 Inch x 12.375 Inch x 20.750 Inch",Discontinued,2,,Part
+R1800,"Corrugated Divider, Unprinted, 44.17 Inch x 9.75 Inch",Active,1,,Part
+R2000,"Corrugated Divider, Unprinted, 40-3/4 Inch x 33-3/4 Inch",Active,1,,Part
+R3691E,LABEL - RADIOACTIVE 8990L,Discontinued,0,,Part
+R3712,BAG-CLEAR POLY FOR AUTODROP,Discontinued,1,,Part
+R3908G,LABEL LOCKING INST - REVISED,Discontinued,1,,Part
+R3918B,LABEL-TAMP.PROOF LID INST.  5,Discontinued,0,,Part
+R4055G,"Printed Product Label, Generic, CHEMOSAFETY Waste Disposal Container, Various Reorder Nos.",Discontinued,2,,Part
+R4127K,"Printed Product Label, Generic, Biohazard Waste Disposal Container, Various Reorder Nos.",Discontinued,2,,Part
+R4128E,"Product Label, Printed, Biohazard, Sharps Containers, Various Reorder Nos.",Discontinued,2,,Part
+R4145E,LABEL 8961 USAGE INSTRUCTION,Discontinued,0,,Part
+R4147D,LABEL SHARP SHUTTLE TUBE,Discontinued,1,,Part
+R4153B,LABEL - USER INSTRUCTION 8303,Discontinued,1,,Part
+R4168C,LABEL - 8800 SINGLE USE,Discontinued,0,,Part
+R4225I,LABEL-PHARMASAFETY PRODUCT,Discontinued,1,,Part
+R4225J,"Product Label, Printed, 5.0 Inch x 6.75 Inch, PharaSafety Containers",Discontinued,2,,Part
+R4226A,"Product Label, Printed, 2-1/4 Inch x 3-5/8 Inch, PharmaSafety Containers",Active,1,Compliant,Part
+R4227,"Product Label, Printed, 1-1/2 Inch x 6-3/4 Inch, PharmaSafety Containers, Various Reorder Nos.",Active,1,Compliant,Part
+R4237,"Product Label, Printed, Biomax Dot, Sharps Containers, Various Reorder Nos.",Active,1,Compliant,Part
+R4264F,LABEL BIO-HAZ SMALL VOLUME,Discontinued,1,,Part
+R4265B,BIOHAZ LABEL - 8930SA,Discontinued,1,,Part
+R4265C,BIOHAZARD LABEL FOR 8930SA,Discontinued,1,,Part
+R4286,LABEL NON-INFECTIOUS WASTE,Discontinued,1,,Part
+R4287G,LBL.MANU.W/RECYCLED PLASTIC,Discontinued,0,,Part
+R4293D,CHEMOMAX BUCKET LABEL,Discontinued,1,,Part
+R4293E,CHEMOMAX PRODUCT LABEL,Discontinued,1,,Part
+R4296B,BIOMAX BIOHAZARD LABEL,Discontinued,1,,Part
+R4296C,BIOMAX BIOHAZARD LABEL,Discontinued,1,,Part
+R4305D,"Product Label, Printed, Fisherbrand (Private Label) 1 Quart Phlebotomy Container, Various Reorder Nos.",Discontinued,2,,Part
+R4306F,"Product Label, Printed, PSS Select (Private Label) Waste Disposal Containers, Various Reorder Nos.",Discontinued,2,,Part
+R4309D,LABEL - 1QT FISHER PHLEBOTOMY,Discontinued,1,,Part
+R4326H,"Product Label, Printed, Generic, PSS Select Waste Disposal Container, Various Reorder Nos.",Discontinued,2,,Part
+R4355E,LBL PharmaStar HORZ,Discontinued,1,,Part
+R4369A,"Product Label, RCRA Hazardous Waste, Various Reorder Nos.",Discontinued,2,,Part
+R4370,"Product Label, RCRA Ignitable Waste Container, Various Reorder Nos.",Active,1,Compliant,Part
+R4371,"Printed Label, RCRA Hazardous Waste Container Toxic Class 6, Various Reorder Nos.",Active,1,Compliant,Part
+R4374,"Overshipper Label, Preprinted with Tyco Logo, 4 Inch x 7 Inch",Active,1,,Part
+R4375,"Overshipper Label, Preprinted with Fisherbrand Logo, 4 Inch x 7 Inch",Discontinued,2,,Part
+R4376A,"Overshipper Label, Preprinted with PSS Select Logo, 4 Inch x 7 Inch",Discontinued,2,,Part
+R4379,"Overshipper Label, Preprinted with Medline Logo, 4 Inch x 7 Inch",Discontinued,2,,Part
+R4380B,"Product Label, Printed, Generic, Biohazard, Waste Disposal Container, Various Reorder Nos.",Discontinued,2,,Part
+R4382,"Product Label, Printed, Generic, CHEMOSAFETY Waste Disposal, Various Reorder Nos.",Discontinued,1,,Part
+R4383,"Product Label, Preprinted French/English, 5 Quart Sharpstar Container, Reorder No. 8506YM",Active,1,Compliant,Part
+R4384A,LABEL BIO-HAZ HORIZONTAL F&E,Discontinued,1,,Part
+R4395,"Product Label, Printed, RCRA Hazardous Waste, Fill Line, Various Reorder Nos.",Active,1,Compliant,Part
+R4401,PRINTED CONTAINER LABEL,Discontinued,1,,Part
+R4402,"PRODUCT LABEL, 8940FP & 8941FP",Discontinued,1,,Part
+R4404,"PRINTED CONTAINER LABEL, CHEMO",Discontinued,1,,Part
+R4405,"PRINTED LABEL, CONUNTRY OF",Active,0,,Part
+R4407,"LABEL, PRINTED, BIOHAZARD CONT",Discontinued,1,,Part
+R4408,BIOHAZARD WASTE DISPOSAL LABEL,Discontinued,1,,Part
+R4415,"Overshipper Label, Unprinted, 4 Inch X 8 Inch",Active,1,,Part
+R4429,"Printed product label, Generic, IML Biohazard waste, Disposal container, Various reorder nos.",Discontinued,2,,Part
+R4545B,BAG FOR 1510SA - PRINTED,Discontinued,1,,Part
+R4546B,BAG FOR 1500SA - PRINTED,Discontinued,1,,Part
+R4549,GUSSETTED POLYBAG (X3014),Discontinued,1,,Part
+R4550,"Polybag, Unprinted, 14 Inch x 20 Inch",Discontinued,1,,Part
+R4552A,"POLY BAG - 40"" X 48""",Discontinued,0,,Part
+R4559,POLY BAG (X3012),Discontinued,1,,Part
+R5091,ABSORBANT PADS - LARGE,Discontinued,1,,Part
+R5092,ABSORBANT PADS - SMALL,Discontinued,1,,Part
+R5093,"Absorbent Pads, Large, 9-7/8 Inch x 5-5/8 Inch",Discontinued,2,,Part
+R5094,"Absorbent Pads, Small, 7-7/8 Inch x 3-1/4 Inch",Discontinued,2,,Part
+R5097,"Absorbent Pads, Large, 9-7/8 Inch x 5-5/8 Inch",Active,2,Compliant,Part
+R5098,"Absorbent Pads, Small, 7-7/8 Inch x 3-1/4 Inch",Active,2,Compliant,Part
+R5099,"Printer Ribbon, IML",Discontinued,4,,Part
+R5104,ABSRBANT PADS LG 9-7/8 X 5-5/8,Active,0,Compliant,Part
+R7011,FOAM NEEDLE PROTECTOR RED,Discontinued,0,,Part
+R7012,"Locking Lid, Rotor Version, 5 Quart Container",Active,6,,Part
+R7013,"Rotor, White",Active,4,,Part
+R7019,"Locking Lid, Rotor Version",Active,4,,Part
+R7024G,"Lid, Clear, 2 Gallon",Active,1,,Part
+R7024K,"Lid, Auto Drop, Clear, 2 Gallon",Active,1,,Part
+R7025MW,"Deck, 2 Gallon, 3.5% Medical Waste",Active,1,,Part
+R7025N,"Lid, Clear, 2 Gallon",Active,1,,Part
+R7026,"Clear, 1 Quart Lid",Active,1,,Part
+R7027,"Sharps Container, Red, 1 Quart",Active,5,,Part
+R7027GW,"Sharps Container, Red, 1 Quart, Greenwood",Active,4,,Part
+R7027MW,"Sharps Container, 1 Quart, 3% RM154 Red, In-house Regrind for Medical Waste",Active,2,,Part
+R7027P,"Sharps Container, Purple, 1 Quart",Discontinued,1,,Part
+R7027Y,"Sharps Container, Yellow, 1 Quart",Active,3,,Part
+R7028,Red 2 Gallon Container,Active,8,,Part
+R7028BK,"Container, Black, 2 Gallon",Active,4,,Part
+R7028GRMW,"SHARPSAFETY RM154 Red, In-house Regrind for Medical Waste Container, 2 Gallon",Active,3,,Part
+R7028GW,"Sharps Container, Red, 2 Gallon",Active,4,,Part
+R7028MW,"2 Gallon, 3% RM154 Red, In-house Regrind for Medical Waste",Discontinued,2,,Part
+R7028NGW,"Sharps Container, 2 Gal, Red, Nonsterile",Preliminary,,,Part
+R7028NMW,"Container, 2 Gallon, 3% Medical Waste",Discontinued,3,,Part
+R7028RHC,"Sharps Container, Translucent Red, 2 Gallon",Active,5,,Part
+R7028W,"Sharps Container, White, 2 Gallon",Active,5,,Part
+R7028Y,"Sharps Container, Yellow, 2 Gallon",Active,6,,Part
+R7028YHC,"Sharps Container, Translucent Yellow, 2 Gallon",Active,4,,Part
+R7029N,HOLDER FOR 1 QUART CONTAINER,Active,0,,Part
+R7032N,"Lid, Clear, 8 Gallon",Active,1,,Part
+R7036,"Sharps Container, Red, 8 Gallon",Active,13,,Part
+R7036BK,"Sharps Container, Black, 8 Gallon",Active,5,,Part
+R7036GMW,"Sharps Container, Grey, 8 Gallon, 3% Red, In-house Regrind for Medical Waste",Discontinued,2,,Part
+R7036GRMW,"8GAL.CONT, 3% MED WASTE GRN",Active,5,,Part
+R7036GW,"Sharps Container, Red, 8 Gallon, Greenwood",Active,4,,Part
+R7036MW,Changes per project R00000513: ?Added RM165 to the BOM,Discontinued,1,,Part
+R7036P,"Sharps Container, Red, 8 Gallon",Active,8,,Part
+R7036PY,"Sharps Container, Yellow, 8 Gallon",Active,7,,Part
+R7036W,"Sharps Container, White, 8 Gallon",Active,6,,Part
+R7036Y,"Sharps Container, Yellow, 8 Gallon",Active,7,,Part
+R7038N,"Sharps Container, Natural, 1/2 Gallon",Active,1,,Part
+R7038RHC,"Sharps Container, Transparent Red, 1/2 Gallon",Active,2,,Part
+R7038YHC,"Sharps Container, Transparent Yellow, 1/2 Gallon",Discontinued,2,,Part
+R7040,NATURAL 2 CAVITY INROOM LID,Active,1,,Part
+R7040NU,"Inroon Lid With Unwinder, Clear",Discontinued,2,,Part
+R7041,"Inroom Door, Red, 100% Regrind",Active,0,,Part
+R7041BR,BROWN INROOM DOOR,Discontinued,2,,Part
+R7042GW,"Sharps Container, 5 Quart, 3.0% Red, In-house Regrind for Medical Waste",Active,4,,Part
+R7042MW,"Sharps Container, 5 Quart, Red, In-house, for Medical Waste",Discontinued,3,,Part
+R7042N,"Sharps Container, Clear, 5 Quart",Active,4,,Part
+R7042RHC,"Sharps Container, Transparent Red, 5 Quart",Active,4,,Part
+R7042YHC,"Sharps Container, Transparent Yellow, 5 Quart",Active,5,,Part
+R7043N,"Hinged Lid With Rotor, Natural",Active,1,,Part
+R7044MW,"Deck, 3 Gallon, 3.5% Medical Waste",Discontinued,3,,Part
+R7044N,"Deck, Clear, 3 Gallon",Active,1,,Part
+R7044RG,DECK CLEAR 3 GAL 100% REGRIND,Discontinued,1,,Part
+R7045MW,"Cowl and Door, 2 and 3 Gallon, 3.5% Medical Waste",Active,1,,Part
+R7045N,"Notch Cowl and Door, Clear, 3 Gallon",Active,1,,Part
+R7045RG,NTCH CWL-DOOR CLR 3GA 100%REGR,Discontinued,1,,Part
+R7045U,Cowl and Door With Unwinder,Active,1,,Part
+R7046E,"Sharps Container, 3 Gallon, Clarified Red, In-house Regrind",Discontinued,1,,Part
+R7046GW,"Sharps Container, Red 3 Gallon",Active,3,,Part
+R7046MW,"Changes per project R00000513: ?	Added RM165 to the BOM",Discontinued,2,,Part
+R7046MWA,3 GAL CONT 4.5% MEDICAL WASTE,Discontinued,2,,Part
+R7046N,"Sharps Container, Clear, 3 Gallon",Active,3,,Part
+R7046OP,3 GALLON OPAQUE,Active,1,,Part
+R7046RG,SHRPS CNT CLR 3GA 100% REGRIND,Discontinued,1,,Part
+R7046RHC,"Sharps Container, Transparent Red, 3 Gallon",Active,4,,Part
+R7046YHC,"Sharps Container, Transparent Yellow, 3 Gallon",Active,5,,Part
+R7048,BEIGE RESHEATHING DEVICE,Discontinued,1,,Part
+R7067,5 QUART LID ALWAYS OPEN,Active,1,,Part
+R7067U,5 QT ALWAYS OPEN LID W/UNWINDE,Active,0,,Part
+R7068,5QT DOOR & SCOOP ALWAYS OPEN,Active,0,,Part
+R7068MW,5QT DOOR&SCOOP ALWAYS OPEN MW,Discontinued,1,,Part
+R7070,1500 BLOODNEEDLE HOLDER T-BLUE,Discontinued,2,,Part
+R7075BR,RED SNAP CAP,Active,1,,Part
+R7075BY,YELLOW SNAP CAP,Active,1,,Part
+R7076,PEDIATRIC BLOOD NEEDLE HOLDER,Discontinued,1,,Part
+R7089BL,"2GAL BLUE HINGED LID, SNAP CAP",Active,3,,Part
+R7089N,"Snap Cap Lid, Clear, 2 Gallon",Active,2,,Part
+R7089W,WHITE 2 GAL HINGED LID SNAPCAP,Active,2,,Part
+R7089W-1,"2 GAL. HINGED LID, WHT, NO CAP",Active,2,,Part
+R7089WMA,WHITE 2 GAL MAIL AWAY LID,Discontinued,1,,Part
+R7102,1 & 2 GAL SLIDE TOP GP LID,Active,1,,Part
+R7103,"General Purpose Container, 1 Gallon, Red",Active,3,,Part
+R7103BG,1 GA GENERAL PURPOSE CONT BEIG,Discontinued,1,,Part
+R7103Y,1 GA GENERAL PURPOSE CONT YELL,Discontinued,1,,Part
+R7407N,"Sharps Container, Transparent Red, 3 Gallon",Active,1,,Part
+R7407RHC,"Sharps Container, Transparent Red, 2 Gallon",Active,2,,Part
+R7407YHC,"Sharps Container, Transparent Yellow, 2 Gallon",Active,2,,Part
+R7408,DISPOSABLE THREAD,Discontinued,1,,Part
+R7409,HOLDER BODY,Discontinued,2,,Part
+R7410*A,"SPRING BUTTON-AUTODROP ""B""MOLD",Discontinued,1,,Part
+R7411*A,"COVER-AUTODROP ""B"" OUTMOLD",Discontinued,1,,Part
+R7412,SNAP CAP/PLUG FOR 5010SA,Active,2,,Part
+R7413,"Sharps Container, Red, 12 Gallon",Active,5,,Part
+R7413BK,"Sharps Container, Black, 12 Gallon",Active,6,,Part
+R7413GW,"Sharps Container, Red, 12 Gallon",Active,2,,Part
+R7413P,"Sharps Container, Red, 12 Gallon",Active,6,,Part
+R7413PY,"Sharps Container, Yellow, 12 Gallon",Active,7,,Part
+R7413W,"Sharps Container, White, 12 Gallon",Active,4,,Part
+R7413Y,"12GAL. CONTAINER, YELLOW",Active,4,,Part
+R7414,"Lid With Sliding Top, 12/18 Gallon",Active,4,,Part
+R7415,"Lid With Sliding Door, 12 Gallon",Active,2,,Part
+R7416,"Lid With Sliding Rails, 12/18 Gallon",Active,4,,Part
+R7416-1,"Lid With Sliding Rails, 8 Gallon",Active,5,,Part
+R7417,LID CHEMOBASE 12/18 GAL(X1363),Active,5,,Part
+R7417BL,12/18GAL CHEMO SLDTOP LID BLUE,Active,5,,Part
+R7417P,12/18 GALLON SLIDE TOP LID,Active,5,,Part
+R7421BL,BLUE THREAD DISP FOR AUTODROP,Discontinued,5,,Part
+R7445,"Sliding Lid, 8 Gallon",Active,4,,Part
+R7446,"Sliding Door, Clear, 8 Gallon",Active,2,,Part
+R7449,8GAL CHEMO LID-SLIDETOP(X9895),Active,3,,Part
+R7449BL,8GAL CHEMO SLIDE TOP CAP BLUE,Active,5,,Part
+R7450,"Chemotherapy Hood, 8/12/18 Gallon",Active,3,,Part
+R7451,8/12/18 GAL. CHEMO CAP,Active,2,,Part
+R7455,5 QUART TAMPER PROOF LID,Discontinued,1,,Part
+R7455MW,"5 QT.LID,TAMPER PROOF 3-1/2%MW",Discontinued,1,,Part
+R7456,5 QUART SCOOP TAMPER PROOF,Discontinued,1,,Part
+R7456MW,5 QT SCOOP TAMP PROOF 3-1/2%MW,Discontinued,1,,Part
+R7457,5 QUART TAMPTER PROOF DOOR,Discontinued,1,,Part
+R7457MW,5 QT TAMPER PRF DR 3-1/2% MW,Discontinued,1,,Part
+R7459,"Sharps Container, Red, 1/2 Quart",Active,3,,Part
+R7460,SHARPSTAR II SCOOP,Active,2,,Part
+R7460BL,SHARPSTAR II SCOOP BLUE,Active,3,,Part
+R7461,SHARPSTAR II LID,Active,1,,Part
+R7461BL,"PharmaSafety, Lid, Blue",Active,3,,Part
+R7462,"Door, Sharpstar II",Active,2,,Part
+R7463,"Phlebotomy Container, 2.2 Quart",Active,7,,Part
+R7464,2.2 QT LID FOR PHLEBOTOMY CONT,Active,0,,Part
+R7472,HOLDER FOR 2.2 QT. CONTAINER,Active,0,,Part
+R7478,PUNCT RESISTNT CHEMO CAP DISC,Active,1,,Part
+R7479,"Sharps Container, Red, 18 Gallon",Active,8,,Part
+R7479BK,"Sharps Container, Black, 18 Gallon",Active,5,,Part
+R7479GRMW,"SHARPSafety Medical Waste Container, 18 Gallon",Active,2,,Part
+R7479GW,"Sharps Container, Red, 18 Gallon, Greenwood",Active,3,,Part
+R7479P,"Sharps Container, Red, 18 Gallon",Active,6,,Part
+R7479PW,"Container, White, 18 Gallon, Unprinted, PG2",Active,4,,Part
+R7479PY,"Sharps Container, Yellow, 18 Gallon",Active,5,,Part
+R7479W,"Container, White, 18 Gallon, Unprinted",Active,5,,Part
+R7479Y,"18 GAL. CONTAINER, YELLOW, Unprinted",Active,5,,Part
+R7481,WHITE 8 GAL HINGED LID (X9820),Active,5,,Part
+R7481BL,BLUE 8 GALLON HINGED LID,Active,5,,Part
+R7483,HINGED ROTOR LID 12/18 GALLON,Active,0,,Part
+R7500,SHARPSTAR III LID,Active,1,,Part
+R7500MW,SHARPSTAR III LID MED WASTE,Active,0,,Part
+R7501,SHARPSTAR III HOOD,Active,1,,Part
+R7501MW,SHARPSTAR III HOOD MED WASTE,Active,0,,Part
+R7502,SHARPSTAR III DOOR,Active,1,,Part
+R7502MW,SHARPSTAR III DOOR MED WASTE,Active,0,,Part
+R7503,Sharp Shuttle Tube,Discontinued,2,,Part
+R7504,Sharp Shuttle Cap,Discontinued,2,,Part
+R7505,2/3 GALLON LID,Active,0,,Part
+R7506,"2 GAL. 5"" ROTOR",Discontinued,1,,Part
+R7507,"Lid, Red, 1 Quart",Active,3,,Part
+R7507Y,1 QT LID FOR 8303BY,Active,0,,Part
+R7508,"Sharps Container, Red, 1 Quart",Active,4,,Part
+R7508Y,"Sharps Container, Yellow, 1 Quart",Active,1,,Part
+R7511*A,"Hinged Lid, White, 30 Gallon",Active,5,,Part
+R7513,*1.5 QT RED SHARPS CONTAINER,Discontinued,1,,Part
+R7515,12/18 GAL. HINGED CHEMO LID,Active,4,,Part
+R7515BL,HINGED LID 12/18 GALLON BLUE,Active,7,,Part
+R7515P,"HINGED CHEMO LID, 12 & 18 GAL",Active,5,,Part
+R7524,"3 GALLON 5"" ROTOR",Active,4,,Part
+R7525,CART BODY 12/18 GAL ROTOR MOLD,Discontinued,2,,Part
+R7526,12/18 GAL.CART HOOD ROT. MOLD,Discontinued,1,,Part
+R7532,PROGUARD II HUB #93338,Discontinued,1,,Part
+R7536,"Sharps Container, Red, 30 Gallon",Active,4,,Part
+R7542,LID COVER - CLEAR,Discontinued,1,,Part
+R7543,PLASTIC SYRINGE TRANSFER CUP,Discontinued,0,,Part
+R7544,TABLETOP HOLDER STAND,Discontinued,1,,Part
+R7545,HIDDEN BRCKET KEY MLDED(X7004),Active,0,,Part
+R7559,"Adhesive Backed Holder, Beige",Discontinued,1,,Part
+R7561,"Handle, 7-1/2 Gallon",Discontinued,4,,Part
+R7563,"Hinged Lid, 7-1/2 Gallon Container",Discontinued,3,,Part
+R7564,"Sharps Container, Red, 7-1/2 Gallon",Discontinued,5,,Part
+R7564Y,"Sharps Container, Yellow, 7-1/2 Gallon",Discontinued,2,,Part
+R7567,"Hinged Lid, Tortuous Door",Active,1,,Part
+R7568,Tortuous Door,Active,1,,Part
+R7569,"Sharps Container, Red, 10 Gallon",Active,10,,Part
+R7569Y,"Sharps Container, Yellow, 10 Gallon",Active,7,,Part
+R7572,"Sharps Container, Red, 7 Gallon",Active,8,,Part
+R7572Y,"Sharps Container, Yellow, 7 Gallon",Active,6,,Part
+R7583,LID/DOOR PHLEBOTOMY  (#810080),Discontinued,1,,Part
+R7584,1QT. RED PHLEB. CONT.,Discontinued,0,,Part
+R7584Y,1QT. YELLOW PHLEB. CONT.,Discontinued,1,,Part
+R7597BHC,3 GALLON CONT. TRANS BEIGE,Discontinued,1,,Part
+R7597N,3 GALLON CONT. CLEAR,Discontinued,1,,Part
+R7597RHC,"Container, Translucent Red, 3 Gallon",Active,4,,Part
+R7597YHC,"Container, Translucent Yellow, 3 Gallon",Active,3,,Part
+R7598BHC,2 GALLON CONT TRANS BEIGE,Discontinued,1,,Part
+R7598N,2 GAL CONTAINER CLEAR,Discontinued,1,,Part
+R7598RHC,"Container, Translucent Red, 2 Gallon",Active,4,,Part
+R7598YHC,"Container, Translucent Yellow, 2 Gallon",Active,4,,Part
+R7599,"Container, Red, 5 Quart",Discontinued,1,,Part
+R7599BG,"Container, Beige, 5 Quart",Discontinued,3,,Part
+R7599BHC,5 QT CONTAINER TRANS BEIGE,Discontinued,1,,Part
+R7599N,"Container, Clear, 5 Quart",Active,2,,Part
+R7599RHC,"Container, Translucent Red, 5 Quart",Active,4,,Part
+R7599YHC,"Container, Translucent Yellow, 5 Quart",Active,4,,Part
+R7604,"Sharps Container, Red, 2.5 Quart",Discontinued,1,,Part
+R7604BG,2.5 QT CONTAINER BEIGE,Discontinued,1,,Part
+R7604YHC,"Sharps Container, Translucent Yellow, 2.5 Quart",Discontinued,2,,Part
+R7605,Tortuous Housing,Active,1,,Part
+R7606,Tortuous Flap Door,Active,1,,Part
+R7607BG,"Sharps Container, Beige, 5 Quart",Discontinued,3,,Part
+R7607BHC,5 QT CONTAINER TRANS BEIGE,Discontinued,1,,Part
+R7607N,"Sharps Container, Clear, 5 Quart",Active,3,,Part
+R7607RHC,"Sharps Container, Translucent Red, 5 Quart",Active,4,,Part
+R7607YHC,"Sharps Container, Translucent Yellow, 5 Quart",Active,4,,Part
+R7611,19 GAL BIPCO LID,Active,0,,Part
+R7613,RETAINING BLOCK,Discontinued,1,,Part
+R7614,PUSH BUTTON FOR 8940FP,Discontinued,1,,Part
+R7615,1 & 2 GAL SLIDE TOP LID,Discontinued,2,,Part
+R7616,Sliding Door,Active,1,,Part
+R7619,"Sharps Container, Red, 2 Gallon",Discontinued,2,,Part
+R7619Y,2 GALLON SHARPS CONT YELLOW,Discontinued,1,,Part
+R7619YHC,2 GALLON CONT TRANS YELLOW,Discontinued,1,,Part
+R7620N,"Container, 3 Gallon, Clear",Discontinued,2,,Part
+R7620RHC,3 GAL TRANS RED CONTAINER,Discontinued,1,,Part
+R7620YHC,"Container, 3 Gallon, Transparent Yellow",Discontinued,3,,Part
+R7621N,"Container, 4 Gallon, Clear",Active,1,,Part
+R7621RHC,"Container, 4 Gallon, Transparent Red",Active,2,,Part
+R7622,SS4 LID TOOL #1415,Active,1,,Part
+R7623,SS4 DOOR - TOOL #1416,Active,1,,Part
+R7624,SS4 COWL TOOL # 1417,Active,0,,Part
+R7626,HOLDER FOR SSIV,Active,0,,Part
+R7630,SHARPS-A-GATOR 19 Gallon Biohazard Waste Container,Active,3,,Part
+R7633,"GatorGuard In-Patient Room Container, Door",Active,3,,Part
+R7634,LID FOR GATORGUARD,Active,1,,Part
+R7634BK,"RCRA Lid, Black",Active,1,,Part
+R7635,HOOD FOR GATORGUARD LID,Active,1,,Part
+R7635BK,"RCRA Hood, Black",Active,1,,Part
+R7636BHC,"3.5 GAL T-P CONT, TRANS BEIGE",Discontinued,1,,Part
+R7636RHC,"Tortuous Path, 3-1/2 Gallon Container, Translucent Red",Active,2,,Part
+R7636YHC,"Tortuous Path, 3-1/2 Gallon Container, Translucent Yellow",Discontinued,2,,Part
+R7637,3-1/2 GAL TORTUOUS PATH LID,Active,0,,Part
+R7639,12/18 GAL. CART HOOD ROT. MOLD,Discontinued,1,,Part
+R7641PP,12 mL Purple MAGELLAN Plunger,Active,0,,Part
+R7642B,"Barrel, 12 mL",Active,1,,Part
+R8249,WASHER - SMALL 8982/8990/8996,Active,0,,Part
+R8509,"Square Container for 8920, Red",Active,3,,Part
+R8516-1HB,85161H WL ENCL BULK SHIPPED 1,Active,0,,Part
+R8526,"Large Container for 8950, Non-Sterile",Active,3,,Part
+R8530,8800 FOAM BLOCK-EXPANDED PS,Discontinued,0,,Part
+R8534,8974 TRAY/HOLDER FOR 2GAL CONT,Active,0,,Part
+R8535,TRAY / HOLDER FOR 8515,Active,0,,Part
+R8550,8529 TRAY/HOLDER FOR 8520/8525,Active,0,,Part
+R8550LGB,8550LG - LRG. GLV BOX/BULK,Active,0,,Part
+R8554B,8554 DBL-UP WALL BRKT BULK,Active,0,,Part
+R8670,"1/4""- 20 x 1/2""  HHCS",Discontinued,1,,Part
+R8671,"2-1/2"" DIA.SWVL CASTER W/BRAKE",Discontinued,1,,Part
+R8672,"2-1/2"" DIAMETER SWIVEL CASTER",Discontinued,1,,Part
+R8673,HOOD PLATE,Discontinued,1,,Part
+R8674,PIVOT BLOCK,Discontinued,1,,Part
+R8675,"10-32x1/2"" BUTTONHD SCKT CP",Discontinued,1,,Part
+R8676,LID OPENING ARM,Discontinued,1,,Part
+R8677,"HOOK, CART",Discontinued,1,,Part
+R8678,90 DEGREE PULLEY,Discontinued,1,,Part
+R8679,TEMP OPEN BLOCK,Discontinued,1,,Part
+R8680,TEMP OPEN ROD,Discontinued,1,,Part
+R8681,"4-40x1/2"" SCKT HD CAP SCREW",Discontinued,1,,Part
+R8682,".281"" O.D. COMPRESSION SPRING",Discontinued,1,,Part
+R8683,"3/32"" x 3/4""L SPRING PIN",Discontinued,1,,Part
+R8684,".450"" I.D. TORSION SPRING",Discontinued,1,,Part
+R8685,"#6-32x5/6"" PTHS FOR",Discontinued,1,,Part
+R8686,CABLE ASSEMBLY,Discontinued,1,,Part
+R8687,FULL OPEN CART FOOT PEDAL ASSY,Discontinued,1,,Part
+R8689,1/4 TAPERED FERRULES BLACK/PVC,Discontinued,1,,Part
+R8930LA,BIOMAX FOAM IN PLACE LID,Active,1,,Part
+R8939,"FIP Gasketed Lid, Chemotherapy, 12 and 18 Gallon",Active,10,,Part
+R8939BL,"FIP Gasketed Lid, PharmaSafety, 12/18 Gallon",Active,7,,Part
+R8939P,"FIP Gasketed Lid, Slide To[p, 12 and 18 Gallon Container, PGII",Active,10,,Part
+R8982,WHITE 2 GAL HNG LID W/ GASKET,Discontinued,1,,Part
+R8985,"Foam In Place Gasketed Lid, Chemotherapy, 8 Gallon",Active,4,,Part
+R8985BL,8 GA SLIDE TOP CHEMO LID FIP,Active,5,,Part
+R9225B,INNER CARTON FOR 8502Y,Discontinued,1,,Part
+R9242C,OVERSHIPPER FOR 8515,Discontinued,1,,Part
+R9242D,Overshipper for 8515,Active,0,,Part
+R9249C,OVERSHIPPER FOR 8529,Discontinued,1,,Part
+R9249D,Overshipper for 8529,Active,0,,Part
+R9331D,OVERSHIPPER FOR 8800 / 8801,Discontinued,0,,Part
+R9366C,OVERSHIPPER FOR 8910,Discontinued,1,,Part
+R9366D,Overshipper for 8910,Active,0,,Part
+R9800,TWIST-TIES,Discontinued,1,,Part
+R9801,ANTI SLIP TAPE FOR 8974,Active,0,,Part
+R98027,FOAM IN PLACE GASKET MATERIAL,Active,0,,Part
+R98028,"FOAM IN PLACE GASKET MATERIAL,",Active,0,,Part
+R98034,HOT STAMP FOIL - GLOSS BLACK,Active,0,,Part
+R98055,"1/4 SAE FLAT WASHER, ZINC",Discontinued,1,,Part
+R9806,TRAY FOR 2 GAL IN-ROOM SERIES,Active,0,,Part
+R98087,"8GAL CRT 1/4""USS FLT WSHRX9955",Active,0,,Part
+R98094E,INST. SHEET FOR 8961,Discontinued,0,,Part
+R98099D,INS SHT FOR SHP SHUTTLE 8301,Discontinued,1,,Part
+R98103,ATTACHMENT HOLDER (X9964),Discontinued,1,,Part
+R98106,"CABLE TIES - 7-1/2"" (X9967)",Discontinued,1,,Part
+R98109,PIVOT LINKAGE (X9970),Discontinued,1,,Part
+R98110,MAIN LINKAGE (X9971),Active,0,,Part
+R98114,BASEPLATE (X9975),Discontinued,1,,Part
+R98116,HOLDER MOUNT (X9977),Active,0,,Part
+R98119E,INST.SHEET FOR 8800 RESHEATHER,Discontinued,0,,Part
+R98173C,"Printed Insert, Instruction Sheet, Drywall Anchors, Reorder No. 8556H",Discontinued,2,,Part
+R98176,FOAM TAPE FOR 8801,Discontinued,1,,Part
+R98178,"FOAM TAPE - 2"" DIA.",Active,0,Compliant,Part
+R98179,"FOAM TAPE 4"" X 4""",Active,0,Compliant,Part
+R98180,"FOAM TAPE - 2 X 7-1/4""",Active,0,Compliant,Part
+R98182,FOAM TAPE - 8800/8911,Discontinued,0,,Part
+R98184,FOAM TAPE FOR 1523SA,Active,0,Compliant,Part
+R98188,Drywall Fasteners,Active,2,,Part
+R98189,SHEET METAL SCREW,Active,0,,Part
+R98190,PLASTIC DRYWALL ANCHOR,Active,0,,Part
+R98211C,INST SHT FOR 30GAL  (X98040C),Discontinued,1,,Part
+R98226D,INSTRUCTION SHEET FOR 8964,Discontinued,1,,Part
+R98234E,INST SHT FOR PHARMASAFETY,Discontinued,1,,Part
+R98237,CABLE ASSEMBLY,Discontinued,1,,Part
+R98238,HINGE STAINLESS STEEL,Discontinued,1,,Part
+R98239,CONTAINER SUPPORT BRACKET-LEFT,Discontinued,1,,Part
+R98240,CONTAINER SUPPORT BRACKET-RGHT,Discontinued,1,,Part
+R98241,PEDAL SHAFT,Discontinued,1,,Part
+R98242,HANDLE BASE WELDMENT,Discontinued,1,,Part
+R98243,FOOT PEDAL LOCK,Discontinued,1,,Part
+R98247,MAIN PULL SHAFT,Discontinued,1,,Part
+R98249,GUIDE PLATE,Discontinued,1,,Part
+R98250,"3/8"" NYLINER BEARING",Discontinued,1,,Part
+R98252,"1/4"" ROPE PULLEY",Discontinued,1,,Part
+R98254,EXTENSION SPRING,Discontinued,1,,Part
+R98255,BUMPER O-RING,Discontinued,1,,Part
+R98256,PULL PIN,Discontinued,1,,Part
+R98257,PULL PIN SPACER,Discontinued,1,,Part
+R98259,TEMP.OPEN LOCK,Discontinued,1,,Part
+R98261,COMPRESSION SPRING,Discontinued,1,,Part
+R98262,MOUNTING FORM,Discontinued,1,,Part
+R98263,"3/32"" ROPE PULLEY",Discontinued,1,,Part
+R98264,BRONZE BEARING,Discontinued,1,,Part
+R98269,"3/16"" NYLINER BEARING",Discontinued,1,,Part
+R9828B,PRODUCT ID INSERT-1511/1509,Discontinued,1,,Part
+R98302,CASTER INSERT SOCKET - 8940FP,Discontinued,1,,Part
+R98303,LOCK SET,Discontinued,1,,Part
+R98304,WASHER FOR LOCK SET,Discontinued,1,,Part
+R98305,COUNTER WEIGHT,Discontinued,1,,Part
+R98306,PEDAL SLEEVE,Discontinued,1,,Part
+R98307,SHIM-MOUNTING,Discontinued,1,,Part
+R98313,ELASTIC STOP JAM NUT,Discontinued,1,,Part
+R98314,"1/4""-20 X 3/8"" BUTTONHD CPSCRW",Discontinued,1,,Part
+R98315,"1/4"" SPLIT LOCK WASHER",Discontinued,1,,Part
+R98317,"1/4""-20 X 3/8"" HEXHD CP SCREW",Discontinued,1,,Part
+R98318,"1/4""-20 X 3/4"" HEX HD CAP SCRW",Discontinued,1,,Part
+R98320,"3/16""X3/8"" FLT.HD.RIVET",Discontinued,1,,Part
+R98321,PEEL TYPE RIVET,Discontinued,1,,Part
+R98322,"3/16"" X 1/4"" RIVET",Discontinued,1,,Part
+R98323,#10 USS FLAT WASHER,Discontinued,1,,Part
+R98324,"1/4"" FLAT WASHER",Discontinued,1,,Part
+R98325,"5/16""x3/8""SHOULDER BOLT",Discontinued,1,,Part
+R98326,"1/4""-20 ELASTIC STP NUT",Discontinued,1,,Part
+R98327,"7/8"" BUTTON HEAD CAP SCREW",Discontinued,1,,Part
+R98328,#10 ELASTIC STOP NUT,Discontinued,1,,Part
+R98331D,INSTRUCTION SHEET FOR 8303SA,Discontinued,1,,Part
+R98334H,"Printed Insert, SHARPSTAR In-Room Containers, Various Reorder Nos.",Discontinued,1,,Part
+R98337E,"Printed Insert, Instruction Sheet, SHARPSTAR, 1 Qt. Sharps Container, Various Reorder Nos.",Discontinued,2,,Part
+R98338C,INST.SHEET-AUTODRP BLD NDL SYS,Discontinued,1,,Part
+R98340D,INST SHT FOR UNWINDERS 8512Y,Discontinued,1,,Part
+R98346F,INST SHT INROOM SHARPS,Discontinued,1,,Part
+R98347,INSTRUCTION SHEET  (CART),Discontinued,1,,Part
+R98349,WIREFORM HANDLE,Discontinued,1,,Part
+R98350,"HOT STAMP FOIL - RED 1-1/4""",Active,0,,Part
+R98355B,INST.SHEET FOR 8781/8790/8791,Discontinued,1,,Part
+R98359,BUBBLE PACK  (X98143),Discontinued,1,,Part
+R98362C,"Printed Insert, Instruction Sheet, Generic, GATORGUARD Container, Various Reorder Nos.",Discontinued,1,,Part
+R98365,INST SHT PSS PHLEB    (880439),Discontinued,0,,Part
+R98366D,INST.SHT MNTING INRM (X98135C),Discontinued,0,,Part
+R98367A,INSTR. SHEET FOR FISHER PHLEB,Discontinued,0,,Part
+R98368,"FOAM CUBE - 2-1/8""",Discontinued,0,,Part
+R98369,FOAM TAPE,Discontinued,0,,Part
+R98379,"Foam Tape, Foam Backed Adhesive, 2-3/4 width x 3-3/4 length",Discontinued,1,,Part
+R98395B,"Printed Insert, Instruction Sheet, Hinged Lid, Sharps Containers, Various Reorder Nos.",Discontinued,2,,Part
+R98396C,"Printed Insert, Generic, SHARPS-A-GATOR Sharps Container, Various Reorder Nos.",Discontinued,2,,Part
+R98397C,"Printed Insert, Generic, Devon Sharps Container, Various Reorder Nos.",Discontinued,2,,Part
+R98399A,"Printed Insert, Generic, Sharps Container, Various Reorder Nos.",Active,1,,Part
+R98400A,INST SHEET 7-1/2 GAL FISHER,Discontinued,1,,Part
+R98405B,INST SHT FOR 3-1/2 GAL #884106,Active,0,,Part
+R98406A,INST SHEET FOR 2-1/2 & 5 QT.,Discontinued,1,,Part
+R98407B,INST SHEET FOR 2-1/2 & 5 QT,Discontinued,1,,Part
+R98408C,INSTRUCTION SHEET 3.5 GAL,Discontinued,1,,Part
+R98409,DIE CAST FRAME,Discontinued,1,,Part
+R98411C,INST SHT ABSBNT PADS (X98411C),Discontinued,1,,Part
+R98414C,"Printed Insert, Instruction Sheet, GATORGUARD Sharps Containers, Various Reorder Nos.",Discontinued,2,,Part
+R98415D,"Printed Insert, SHARPS-A-GATOR Sharps Container, Reorder Nos. 31143731 and 31143699",Discontinued,2,,Part
+R98416B,"Printed Insert, Generic, Waste Disposal Container, Various Reorder Nos.",Discontinued,1,,Part
+R98419,"1/8"" STEEL PUSH RETAINER",Discontinued,1,,Part
+R98431C,"INSTRUCTION SHEET, RCRA WASTE",Discontinued,1,,Part
+R98433,INSTRUCTION SHEET (CART),Discontinued,1,,Part
+R98438,"Printed Insert, Instruction Sheet, SHARPSTAR, 1 Quart, Sharps, Various Reorder Nos.",Discontinued,1,,Part
+R98439,"Printed Insert, Instruction Sheet, Hinged Lid/Snap Cap, Sharps Containers, Various Reorder Nos.",Discontinued,1,,Part
+R98442,"Printed Insert, Instruction Sheet, GATORGUARD Sharps Container, Various Reorder Nos.",Discontinued,2,,Part
+R98447,PRINTED INS SHEET FOR 31143731,Discontinued,1,,Part
+R98458,"Printed Insert, RCRA Waste, 5 Quart Disposal Containers, Various Reorder Nos.",Discontinued,2,,Part
+R98461,"PRINTED INSERT, SHARPS-A-GATOR",Discontinued,1,,Part
+R98463,"Printed Insert, 5 Quart Sharps Container with Flap Doors, Reorder No. MDS705153",Discontinued,1,,Part
+R9869D,"Printed Insert, Instruction Sheet, INROOM Sharps Doors, Various Reorder Nos.",Discontinued,2,,Part
+R9870H,"Printed Insert, Instruction Sheet, INROOM Sharps Lids, Various Reorder Nos.",Discontinued,2,,Part
+R9875D,"Printed Insert, Instruction Sheet, Sharps Containers, Various Reorder Nos.",Discontinued,2,,Part
+R9876F,"Printed Insert, Instruction Sheet, Rotor Lid, Sharps Containers, Various Reorder Nos.",Discontinued,2,,Part
+R9881F,INST SHT 8935LID BIOHAZ SERIES,Discontinued,1,,Part
+R9882J,"Printed Insert, Sharps and Chemotherapy Waste Disposal Containers, Various Product Codes",Discontinued,2,,Part
+R9909,EPS BLOCK (X1369),Discontinued,1,,Part
+R9918G,"Printed Insert, CHEMOSAFETY Waste Disposal Container, Various Product Codes",Discontinued,2,,Part
+R9960F,"Printed Insert, Instruction Sheet, Hinged Lid/Snap Cap, Sharps Container",Discontinued,2,,Part
+R9962C,"Printed Insert, Instruction Sheet, Sharps Rotor and AUTODROP Container, Reorder Nos. 1522AC and 1522SA",Discontinued,2,,Part
+R9977,"5/16"" DIA. WELD STUD (X9963)",Active,0,,Part
+R9980,"#8-32X7/8""STL ALLOY ZINC,SHCS",Active,0,,Part
+R9981,#8-32 BLACK CAP NUT (X9979),Active,0,,Part
+RM001,"RESIN,HIPS,ATOFINA #825",Active,0,,Part
+RM002,"RESIN, PCTG, EASTMAN, #DN003",Discontinued,1,,Part
+RM004,"RESIN, RANDOM PP, R35C-01",Active,0,,Part
+RM010,LLDPE 2 MELT DOW ATTANE 4202,Discontinued,1,,Part
+RM016,"STYRENE GREY, 25/1,#CHC-9760-A",Active,0,,Part
+RM017,"BLUE, 25/1, PCTG, #BEC-12673",Discontinued,1,,Part
+RM018,"YELLOW, 25/1,HIPS,#YHC-9358-A",Active,0,,Part
+RM020,"WHITE,25/1, PP #WPC-3504",Active,0,,Part
+RM022,"BEIGE,25/1, PP, #CPC-974",Discontinued,1,,Part
+RM025,"GREEN, 25/1, PP, #GHC-23793",Active,0,,Part
+RM026,"YELLOW, 25/1, PP, #YPC-3159-B",Active,0,,Part
+RM029,"PURPLE, 25/1, PP, #VPC-4018",Discontinued,1,,Part
+RM031,"RED, 50/1, PP, #RPC-667B",Discontinued,1,,Part
+RM032,"TRANS RED, 50/1, #RPC-2226B",Active,0,,Part
+RM036,"RESIN, LDPE, #GA-574189",Active,0,,Part
+RM041,"YELLOW,50/1,LDPE, #YCC-5533",Active,0,,Part
+RM042,"RED,50/1,LDPE, #RCC-5532",Active,0,,Part
+RM044,"RESIN, LDPE, U.S.I, #NA831-000",Active,0,,Part
+RM045,"RED, 20/1, HIPS, #HC3140-D",Discontinued,1,,Part
+RM053,BEIGE COLORANT,Discontinued,1,,Part
+RM054,"Colorant, Red, Concentrate",Active,1,,Part
+RM060,RESIN-SANTOPRENE THERMOPLASTIC,Active,0,,Part
+RM061,"WHITE, 30/1, #WMC-8612",Active,0,,Part
+RM063,"GREY, 10/1, PP, #CPC-8140",Discontinued,1,,Part
+RM067,"TRANS BLUE, 50/1; PP#BPC-16756",Active,0,,Part
+RM070,BLUE COLORANT 25/1 BPC23456,Active,0,,Part
+RM072,"MOOSE TAN, 25/1, #TPC-1341-B",Discontinued,1,,Part
+RM074,UNIVERSAL BLACK CONCENTRATE,Active,0,,Part
+RM077,TRANSPARENT BEIGE COLORANT,Discontinued,1,,Part
+RM093,"RESIN, IMPACT PP, #5325",Active,0,,Part
+RM102,"RESIN, RANDOM CO-P PP, SR-857M",Discontinued,1,,Part
+RM104,RESIN EQUISTAR PP 35FU01,Discontinued,1,,Part
+RM106,RESIN RANDOM PP CO-P #6824MZ,Active,0,,Part
+RM108,RESIN HDPE H5234 33MF GENERAL,Discontinued,1,,Part
+RM110,RESIN - POLYPROPYLENE 3620WZ,Active,0,,Part
+RM112,POLYPROPYLENE COPOLYMER MEDIUM,Active,0,,Part
+RM115,SILOXANE ADDITIVE,Active,0,,Part
+RM117,"RESIN, IMPACT PP, PP37NU01",Discontinued,1,,Part
+RM125,RESIN RANDOM PP CO-P #6825WZ,Discontinued,1,,Part
+RM129,RESIN PP TOTAL 4720WZ,Active,0,,Part
+RM140,HYPERFORM CONCENTRATE,Discontinued,1,,Part
+RM141,BLOWING ADDITIVE,Discontinued,1,,Part
+RM151,RESIN POLYPROPYLENE PF536 REGR,Discontinued,1,,Part
+RM152,RESINPP RECYCLED HQ DPR SCRAP,Discontinued,1,,Part
+RM154,RED IN-HOUSE REGRIND FOR MW,Active,0,,Part
+RM156,"Clarified Red,In House Regrind",Discontinued,1,,Part
+RM157,"RESIN, POLYPROPYLENE,",Active,0,,Part
+RM160,"RESIN, POLYPROPYLENE",Active,0,Compliant,Part
+RM162,"Resin, Polypropylene/PE, Covidien Blend, Blue",Active,2,,Part
+RM163,Red powder colorant,Preliminary,,,Part
+RM164,"Resin, Kraton G1657MS/G1657VS",Active,2,,Part
+RM165,"Resin,  Greenwood blend, Pre - colored Red",Active,7,,Part
+RM168,"Regrid Resin, Polypropylene Blend, Dark",Active,1,,Part
+RM169,"Resin, Polypropylene",Active,1,,Part
+RM170,"Colorant, Trans-Red, 50/1, PP32760698",Active,0,,Part
+RM171,"Resin, Random PP Co-P RP4915",Active,0,Compliant,Part
+RM172,"Polyethylene, T-50-2000, for RM168 Blend",Discontinued,1,,Part
+RM174,"Regrind, In-House, Dark",Active,1,,Part
+RM175,"Resin, Linear Low Density Polyethylene  LL3001",Active,0,,Part
+RM176,"Resin, Polypropylene Impact Copolymer, Braskem TI6350WV",Active,0,,Part
+RM177,"Resin, Polypropylene, 8 IZOD Mixed Color Reprocessed",Active,0,Compliant,Part
+RM201,"COLORANT, RED LIQUID COLOR FOR",Discontinued,1,,Part
+RM210,TRANS RED LIQUID #PP31642733,Discontinued,1,,Part
+RM220,YELLOW LIQUID #PP13642468,Active,0,,Part
+RM260,TRANS YELLOW #PP11710084,Active,0,,Part
+WP0001PKG,"Label Kit, 20 Count",Active,2,,Part
+WP0002PKG,"Label Kit, 5 Count",Active,2,,Part
+WP0003PKG,"Label Kit, 14 Count",Active,2,,Part
+WP2200,WHITE 2 GA LID W/RED SNAPCAP,Active,0,,Part
+WP2201,WHITE 2 GA LID W/YELL SNAPCAP,Active,0,,Part
+WP2202,BLUE 2 GA LID W/YELLOW SNAPCAP,Active,0,,Part
+WP3204,"Snap Cap and Lid Assembly, Biohazard",Active,1,,Part
+WP3205,LID&SNAPCAP GSKT ASSEM.BIOHAZ,Discontinued,1,,Part
+WP3206,LID & SNAP CAP ASSEM/NO GASKET,Active,0,,Part
+WP4810,"Lid and Door Assembly, 7 and 10 Gallon Containers",Active,1,,Part
+WP4836,"Gatorguard, Lid Assembly for 2 Gallon and 3 Gallon",Discontinued,5,,Part
+WP4836BK,"RCRA Lid Assembly, Black",Discontinued,4,,Part
+WP4836MDS,Gatorguard Lid Assembly for MDS705203,Discontinued,1,,Part
+WP4837MDS,Gatorguard Lid Assembly for MDS705151,Discontinued,1,,Part
+WP4837PSS,Gatorguard Lid Assembly for 044,Discontinued,1,,Part
+WP7024K,Clear 2 Gallon Auto Drop Rotor Lid,Active,1,,Part
+WP7025N-0,2 GAL CLEAR LID CUT & TRIMMED,Discontinued,1,,Part
+WP7026,1 Quart 8900 Lid Packed into Inner Carton,Active,1,,Part
+WP7026P,"1 Quart 8900 Lid Packed Into Inner Carton for PREVENT, Private label",Active,1,,Part
+WP7029N,ASSEM.OF 8910 HOLDER&FOAM TAPE,Active,0,,Part
+WP7044N-0,3 GAL CLEAR LID CUT & TRIMMED,Discontinued,0,,Part
+WP7102,"Slide Top Lid Assembly, 1and 2 Gallon",Active,1,,Part
+WP7408,DISP THREAD ASSM,Discontinued,1,,Part
+WP7409,HOLDER BODY ASSEMBLED-BULKED,Discontinued,1,,Part
+WP7417,"Hot Air Staker Chemotherapy Lid, 12/18 Gallon",Discontinued,5,,Part
+WP7417BL,"Hot Air Staker PharmaSafety Lid, 12/18 Gallon",Active,4,,Part
+WP7417BLNB,"Hot Air Staker, Non Hazardous, Non Biohazard, Pharmaceutical, Lid, 12/18 Gallon",Active,4,,Part
+WP7417P,"Slide Top, Foam In Place Lid, 12 and 18 Gallon Container, PGII",Active,5,,Part
+WP7418,"Slide Top Hinged Gasketed Lid, 12 and 18 Gallon",Active,5,,Part
+WP7445,8 GA HEAT STK LID RAILS DOORS,Active,0,,Part
+WP7449,"Hotair Staked Chemotherapy Lid, 8 Gallon",Active,4,,Part
+WP7450,"Slide Top Hinged Gasketed Lid, 8 Gallon",Active,5,,Part
+WP7450BL,"Hot Air Staker PharmaSafety Lid, 8 Gallon",Active,4,,Part
+WP7450BLNB,"Hot Air Staker, Non Hazardous, Non Biohazard, Pharmaceutical, Lid, 8 Gallon",Active,4,,Part
+WP7462,SHARPSTAR II PRINTED DOOR,Active,2,,Part
+WP7462NB,"Pharmaceutical, Non Hazardous, Non Biohazard, Door With Pad Printing",Active,0,,Part
+WP7464,Bulk Pack 2.2 Quart Lids,Active,1,,Part
+WP7477,"Chemotherapy Hood with Printed Instruction Label, 8 /12 /18 Gallon",Active,2,,Part
+WP7477NB,"Pharmaceutical, Non Hazardous, Non Biohazard, Hood, With Printed Instruction Label, 8/18 Gallon.",Active,4,,Part
+WP7478,CHEMO CAP DISC ASSM,Active,1,,Part
+WP7483,12/18 GA BIO LID ASSM,Active,0,,Part
+WP7502,5 Quart Door Assembly,Active,1,,Part
+WP7502MW,5 QT DOOR ASSMBLY MED WASTE,Active,1,,Part
+WP7505,PAD PRINTED LID,Active,0,,Part
+WP7506,"2GAL. 5"" ROTOR - PAD PRINTED",Discontinued,1,,Part
+WP7596,PRINTED TUMBLER FOR GATORGUARD,Active,0,,Part
+WP7605,ASSMBLY 5QT CLR TORTUOUS LID,Active,1,,Part
+WP7611,19 GAL BIPCO LID,Discontinued,1,,Part
+WP7615,ASSMLY OF 1&2GAL SLIDE TOP LID,Active,0,,Part
+WP7623,SS4 HOT STAMPED DOOR,Active,0,,Part
+WP7633,PRINTED DOOR FOR 5QT RCRA LID,Active,0,,Part
+WP8502U,DOOR LID ASSM W/UNWINDER,Discontinued,1,,Part
+WP8506,"Lid, Scoop, and Door Assembly, 5 Quart",Active,3,,Part
+WP8506MW,"SharpStar III, Lid, Hood, and Door Assembly with Recycled Medical Waste",Active,2,,Part
+WP8510,LID/DOOR ASSEMBLED,Active,1,,Part
+WP851201N,LID/DOOR SCOOP ASSY 5QT,Active,2,,Part
+WP8512U,"Lid, Door, Scoop Assmebly, 5 Quart Unwind",Active,1,,Part
+WP8520MW,COWL&LID ASMBLY 3.5% MED WASTE,Discontinued,1,,Part
+WP8520N,COWL/DOOR & LID ASSEM CLEAR,Active,0,,Part
+WP8520N01,COWL & DIE CUT LID ASSY CLEAR,Discontinued,1,,Part
+WP8520N02,COWL/DOOR & LID ASSEM CLEAR,Active,0,,Part
+WP8520U,COWL & LID ASSM UNWINDER,Active,0,,Part
+WP8526,"Hinged Lid with Rotor, 3 Gallon, Clear",Active,1,,Part
+WP8536,"SharpStar II Lid, Door and Cowl",Active,4,,Part
+WP8540,SS4 HOOD LID & DOOR ASSEMBLY,Active,1,,Part
+WP8825,2GAL PharmaSafety FIP SNAP CAP,Active,2,,Part
+WP8836P,"PharmaSafety Lid, Door and Cowl",Active,2,,Part
+WP8836PNB,"Pharmaceutical, Non Hazardous, Non Biohazard, Lid, Door and Cowl",Active,1,,Part
+WP8850,8 GAL.PharmaSafety FIP GKT LID,Active,3,,Part
+WP8860,"FIP Gasketed Lid, PharmaSafety, 12 and 18 Gallon",Active,5,,Part
+WP8901,1QT.8900 CONT LABEL ATTCH  RED,Discontinued,1,,Part
+WP8906,1QT 8906 CONT LABEL ATTCHED,Discontinued,1,,Part
+WP8908,1QT 8908 CONT LABEL ATTACHED,Discontinued,1,,Part
+WP8920,8920 LID & LOCKING ROTOR ATT.,Active,0,,Part
+WP8935,12 GA HEAT STK LID DOOR &RAILS,Active,1,,Part
+WP8950SA,LID & LKG ROTOR ATTCH. 8950SA,Active,3,,Part
+WP8961,8961 PAD PRINTED/ROTORED LID,Discontinued,1,,Part
+WP8964,LID AND ROTOR ASSEMBLY,Active,0,,Part
+WP8965MW,COWL & LID ASSY MED.WASTE,Active,0,,Part
+WP8965N,"Cowl and Lid Assembly, Clear",Active,1,,Part
+WP8965N01,COWL & DIE CUT LID ASSY CLEAR,Discontinued,1,,Part
+WP8965U,COWL & LID ASSM UNWINDER,Active,0,,Part
+WP8979,See Thru Lid and Lock with Rotor Attached,Active,2,,Part
+WP8980-C,8 Gallon Locking Rotor Lid,Active,2,,Part
+WP8982,"Foam in Place Gasketed Lid, Hinged, 2 Gallon, White",Active,1,,Part
+WP8982MA,SNAP CAP GSKT MAIL AWAY LID,Discontinued,1,,Part
+WP8985,"Foam in Place Gasketed Lid, Single Pass, 8 Gallon",Active,4,,Part
+WP8986,"Foam in Place Gasketed Lid, Hinged, 8 Gallon",Active,4,,Part
+WP8998,"FIP Gasketed Lid, Hinged, Chemotherapy, 18 Gallon",Active,4,,Part
+WP8998P,"FIP Gasketed Lid, Hinged, 12 and 18 Gallon Container, PGII",Active,5,,Part
+WP8999,"FIP Gasketed Lid, Hinged, 12/18 Gallon",Active,4,,Part
+WPV8506,"Lid, Scoop, and Door Assembly, 5 Quart",Active,2,,Part
+WPV8536,"SharpStar II Lid, Door, and Cowl, VHA",Active,4,,Part
+X1611,OVERSHIPPER FOR PROGUARD,Discontinued,1,,Part
+X1615,O/S FOR R7511A BIOMAX LID,Discontinued,1,,Part
+X1616,DIVIDER FOR 30 GAL.BIOMAX LID,Discontinued,1,,Part
+X1629,#1 BULK BOX,Discontinued,1,,Part
+X1630,#2 BULK BOX,Discontinued,1,,Part
+X1631,#3 BULK BOX,Discontinued,1,,Part
+X1632,#4 BULK BOX,Discontinued,1,,Part
+X1633,#5 BULK BOX,Discontinued,1,,Part
+X1636,DIVIDER,Discontinued,1,,Part
+X1637,(R1601) O/S FOR SSIV ENCLOSURE,Discontinued,1,,Part
+X3012,POLY BAG - 8940FP (BULK BAG),Discontinued,1,,Part
+X3014,GUSSETTED POLYBAG-(R4549),Discontinued,1,,Part
+X3018,"BTM SEAL BAG 20"" X 18"" X 30""",Discontinued,1,,Part
+X9002,UNIVERSAL BLCK CNTRTE(RM074),Discontinued,1,,Part
+X9003,NYLON 35% GLASS B-3EG-7(RM056),Discontinued,1,,Part
+X9806,Glucopon Spray,Discontinued,1,,Part
+X98061,WINDOW W/PAD PRINT,Discontinued,1,,Part
+X98063,ISOCYANATE 611 (R98028),Discontinued,1,,Part
+X98140,BLACK PAD INK,Active,1,,Part
+X98141,RED PAD INK,Active,1,,Part
+X98142,THINNER FOR PAD PRINTING,Active,1,,Part
+X98146,ADDITIVE FOR PAD PRINTER,Active,1,,Part
+X98151,ORANGE PAD INK,Active,1,,Part
+X9894,PURGING SOLVENT S-235 A,Active,0,,Part
+X9897,Videojet Cleaning Solution V901-Q,Discontinued,1,,Part
+X9898,Videojet Ink V411-D,Active,0,,Part
+X9899,Videojet Makeup Fluid V706-D,Active,0,,Part
+X9900,"Plunger, 12 mL with Extended Flange",Active,0,,Part
+X9901,"Ink Thinner, VD Trans Tech Part Number 1201011",Active,0,,Part
+X9902,"Polybag, 13 Inch x 10 Inch",Active,0,,Part
+ZAZ1013,DISPENSER ASSEMBLY 8555/C,Discontinued,1,,Part
+ZBZ0001,FOOT PEDAL NI-CHROME,Discontinued,1,,Part
+ZBZ0003,GENERIC CART VINYL COATED,Discontinued,1,,Part
+ZBZ0006,HANDLE NI-CHROME,Discontinued,1,,Part
+ZBZ0010,SLIDE RAIL NI-CHROME,Discontinued,1,,Part
+ZBZ1026,BENT SLIDE RAIL ASSEMBLY,Discontinued,1,,Part
+ZBZ1027,PIVOT LINKAGE ASSEMBLY,Discontinued,1,,Part
+ZBZ1028,MAIN LINKAGE ASSEMBLY,Discontinued,1,,Part
+ZBZ1029,LINKAGE & HOLDER ASSEMBLY,Discontinued,1,,Part
+ZDZ1031,BENT SIDE RAIL WIRE,Active,0,,Part
