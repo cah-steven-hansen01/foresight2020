@@ -4,14 +4,20 @@ import os
 import itertools
 import re
 import time
+import datetime as dt
+import sys
+sys.path.insert(1, r'C:\Users\steven.hansen01\Documents\GitHub\quality_productivity_tool')
+from qa_productivity_tool import quality_report, nc_full
 
-def test_pull_plantstar():
-    data_retrevial = Data_Retrevial()
-    data_retrevial.pull_plantstar()
+def test_pull():
+    dr = Data_Retrevial()
+    dr.pull_archived_so()
 
-protocol = test_pull_plantstar
+protocol = test_pull
 
 class Data_Retrevial:
+    def __init__(self):
+        self.qr = quality_report.Quality_Report() #provides reference mappings (i.e. product code -> value stream)
     def pull_plantstar(self,start_date = '2019-01-01' ):
         '''pulls plantstar data, start_date must be in format "YYYY-MM-DD"'''
         s_time = time.time()
@@ -47,23 +53,68 @@ class Data_Retrevial:
                     .reset_index(drop = True)
         df_clean.to_csv('./clean_data/plant_star.csv')
         print('Planstar Pull took {} seconds'.format(round(time.time()-s_time),2))
-    def pull_archived_so(self):
+    def pull_archived_so(self,start_date = '2019-01-01',filename = 'archived_so_clean'):
+        s_time = time.time()
+        d_list = start_date.split('-')
+        start_date = dt.date(int(d_list[0]),int(d_list[1]),int(d_list[2])).strftime('%Y%m%d') 
         cnxn = pyodbc.connect('DRIVER={Client Access ODBC Driver (32-bit)};SIGNON=1;REMARKS=1;LIBVIEW=1;DFT=1;QRYSTGLMT=-1;PKG=CLPB80F/DEFAULT(IBM),2,0,1,0,512;LANGUAGEID=ENU;DFTPKGLIB=B833CLPF;DBQ=B833CLPF;SYSTEM=NAMFG401;UserID=CLSERVICE;Password=SERVICE;')
         cursor = cnxn.cursor()
         archived_so_query = '''
         SELECT DISTINCT FMH.MORD, FMH.MPROD, FMH.MRDTE, FMH.MQISS, FMH.MAPRD, FMH.MASTS, FMH.MBOM, FMH.MOPNO, FSH.SQFIN, FMH.MQREQ, FSH.SQREQ, FSH.SOLOT
         FROM B833CLPF.FMH FMH, B833CLPF.FSH FSH
-        WHERE FMH.MORD = FSH.SORD AND ((FMH.MRDTE>20191231) AND (FSH.SQFIN>0))'''
+        WHERE FMH.MORD = FSH.SORD AND ((FMH.MRDTE>{}) AND (FSH.SQFIN>0))'''.format(start_date)
         cursor.execute(archived_so_query)
         rows = cursor.fetchall()
-        df = pd.DataFrame.from_records(rows,columns = ['shop_order','component','date','MQREQ','product','MQISS','bom_qty','MOPNO','finished_qty','SQREQ','SOSTS','lot_number'])       
-        df = df[['shop_order','lot_number','date','product','component','bom_qty','MQREQ']]
+        df = pd.DataFrame.from_records(rows,columns = ['shop_order','component','date','MQREQ','Product','MQISS','bom_qty','MOPNO','finished_qty','requested_qty','SOSTS','lot_number'])       
+        df = df[['shop_order','lot_number','date','Product','component','bom_qty','requested_qty','MQREQ']]
+        component_category = pd.read_csv('./reference_data/Product Category.csv',encoding='windows-1252')
+        self.component_dic = {}
+        for component, category in zip(component_category['Component'],component_category['Category']):
+            self.component_dic[component] = category
+        self.not_found_components = set()
+        list_of_frames = [self._component_encoder(frame) for lot, frame in df.groupby(by = 'lot_number')]
+        archived_so_clean = pd.concat(list_of_frames)\
+            .reset_index(drop = True)
+        lot_mask = archived_so_clean['Lot Number'].str.contains('TST|TSA|TST')
+        archived_so_clean = archived_so_clean[~lot_mask]
+        product_mask = archived_so_clean["Product"].str.contains('RM[0-9]{3}|5551500055') # removes regrind and tips codes (see outlier investigation)
+        archived_so_clean = archived_so_clean[~product_mask]
+        archived_so_clean['Value Stream'] = list(map(self.qr.return_value_stream,archived_so_clean['Product']))
+        archived_so_clean.to_csv('./clean_data/'+filename+'.csv')
+        print('-*'*5+' Archived SO (BPCS) Summary Stats '+'-*'*5)
+        print('Archived SO (BPCS) Pull took {} seconds'.format(round(time.time()-s_time),2))
     def pull_ncs(self):
-        pass
+        ncs = nc_full.NC_Full()
+        ncs.mostrecentreport()
+        nc_df = ncs.run_report()
+        return nc_df 
     def pull_cff_schedule(self):
         pass
     def pull_sff_schedule(self):
         pass
+    def _component_encoder(self,frame):
+        
+        frame = frame.reset_index(drop=True)
+        lot_number = frame.loc[0,'lot_number'].strip()
+        product = frame.loc[0,'Product'].strip()
+        date = frame.loc[0,'date']
+        shop_order = str(frame.loc[0,'shop_order'])
+        req_qty = frame.loc[0,'requested_qty']
+        df = pd.DataFrame()
+        df.loc[lot_number,'Product'] = product
+        df.loc[lot_number,"Date"] = date
+        df.loc[lot_number,'Shop Order'] = shop_order
+        df.loc[lot_number,'requested_qty'] = req_qty
+        for i,component in enumerate(frame.component):
+            component = component.strip()
+            try:
+                self.component_dic[component]
+            except KeyError:
+                self.not_found_components.add(component)
+                continue
+            df.loc[lot_number,self.component_dic[component]] = component
+        return df.reset_index()\
+                .rename(columns = {'index':'Lot Number'})
 
 if __name__ == "__main__":
     protocol()
