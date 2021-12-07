@@ -1,5 +1,9 @@
+One of the Cardinal Health AugIntel Hackathon 2021 finalist ideas.
 
+See "Foresight 2020.pdf" for the original Hackathon idea.
 
-data_cleaner.py
-    * currently connects to the excel workbook that holds the data connections to BPCS and Plantstar then cleans and prepares data for analysis and model building.  The clean data is then placed in the "clean_data" folder.  Reason for this is loading the raw data takes a long time and only needs to be done when processing a new model or forecasting.
-model.py
+Updates in this Project:
+* Original Hackathon Project lacked in-depth data analysis.  New version will have a more robust and deep data analysis.
+* Scaling down to only one Factory
+* Additional feature engineering
+* Additional features like press# and tool#
