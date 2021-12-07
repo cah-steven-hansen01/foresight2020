@@ -7,18 +7,20 @@ import time
 import datetime as dt
 import sys
 sys.path.insert(1, r'C:\Users\steven.hansen01\Documents\GitHub\quality_productivity_tool')
-from qa_productivity_tool import quality_report, nc_full
+from qa_productivity_tool import quality_report, nc_full, nc_product_by_dispo
+
+
 
 def test_pull():
     dr = Data_Retrevial()
-    dr.pull_archived_so()
+    dr.pull_plantstar()
 
 protocol = test_pull
 
 class Data_Retrevial:
     def __init__(self):
         self.qr = quality_report.Quality_Report() #provides reference mappings (i.e. product code -> value stream)
-    def pull_plantstar(self,start_date = '2019-01-01' ):
+    def pull_plantstar(self,start_date = '2019-01-01',filename = 'plant_star' ):
         '''pulls plantstar data, start_date must be in format "YYYY-MM-DD"'''
         s_time = time.time()
         ps_cnxn = pyodbc.connect("Provider=MSDASQL.1;Persist Security Info=True;Extended Properties=&quot;DSN=mypstar;&quot;;Initial Catalog=focus2000")
@@ -51,9 +53,14 @@ class Data_Retrevial:
                     .rename(columns = {'index':'shop_order'})\
                     .sort_values(by = 'start_time')\
                     .reset_index(drop = True)
-        df_clean.to_csv('./clean_data/plant_star.csv')
+        try:df_clean.to_csv('./clean_data/' + filename + '.csv')
+        except PermissionError:
+            print('PermissionError, close file and press enter')
+            _ = input('Press enter after closing ',filename)
+            df_clean.to_csv('./clean_data/plant_star.csv')
         print('Planstar Pull took {} seconds'.format(round(time.time()-s_time),2))
-    def pull_archived_so(self,start_date = '2019-01-01',filename = 'archived_so_clean'):
+    def pull_archived_so(self,start_date = '2019-01-01',filename = 'archived_so_clean',fname_timestamp = True):
+        if fname_timestamp: filename = filename+dt.date.today().strftime('%d-%b-%Y') 
         s_time = time.time()
         d_list = start_date.split('-')
         start_date = dt.date(int(d_list[0]),int(d_list[1]),int(d_list[2])).strftime('%Y%m%d') 
@@ -67,6 +74,7 @@ class Data_Retrevial:
         rows = cursor.fetchall()
         df = pd.DataFrame.from_records(rows,columns = ['shop_order','component','date','MQREQ','Product','MQISS','bom_qty','MOPNO','finished_qty','requested_qty','SOSTS','lot_number'])       
         df = df[['shop_order','lot_number','date','Product','component','bom_qty','requested_qty','MQREQ']]
+        df.to_csv(f"./raw_data/archived_so{dt.date.today().strftime('%d-%b-%Y')}.csv")
         component_category = pd.read_csv('./reference_data/Product Category.csv',encoding='windows-1252')
         self.component_dic = {}
         for component, category in zip(component_category['Component'],component_category['Category']):
@@ -83,11 +91,21 @@ class Data_Retrevial:
         archived_so_clean.to_csv('./clean_data/'+filename+'.csv')
         print('-*'*5+' Archived SO (BPCS) Summary Stats '+'-*'*5)
         print('Archived SO (BPCS) Pull took {} seconds'.format(round(time.time()-s_time),2))
-    def pull_ncs(self):
-        ncs = nc_full.NC_Full()
-        ncs.mostrecentreport()
-        nc_df = ncs.run_report()
-        return nc_df 
+    def pull_ncs(self,filename = 'ss_ncs'):
+        ncs_dispo = nc_product_by_dispo.NC_Product_By_Dispo()
+        ncs_dispo.mostrecentreport()
+        nc_dispo_df = ncs_dispo.run_report()
+        nc_f = nc_full.NC_Full()
+        nc_f.mostrecentreport()
+        nc_full_df = nc_f.run_report(add_dispo=False)
+        cols = ['NC Number','Created Date','Discovery/Plant Area','Root Cause','Root Cause Description','Status','Value Stream']
+        nc_df = nc_dispo_df.merge(nc_full_df[cols], on = "NC Number")
+        nc_df.loc[:,'Created Date'] = pd.to_datetime(nc_df['Created Date'])
+        try:nc_df.to_csv('./clean_data/'+filename+'.csv')
+        except PermissionError:
+            print('PermissionError')
+            _ = input('Close {} and press enter to try again'.format(filename))
+            nc_df.to_csv('./clean_data/'+filename+'.csv')
     def pull_cff_schedule(self):
         pass
     def pull_sff_schedule(self):
@@ -97,13 +115,16 @@ class Data_Retrevial:
         frame = frame.reset_index(drop=True)
         lot_number = frame.loc[0,'lot_number'].strip()
         product = frame.loc[0,'Product'].strip()
-        date = frame.loc[0,'date']
+        first_date = pd.to_datetime(frame.date,format='%Y%m%d').min()
+        last_date = pd.to_datetime(frame.date,format='%Y%m%d').max()
+        num_entries = len(frame)
         shop_order = str(frame.loc[0,'shop_order'])
         req_qty = frame.loc[0,'requested_qty']
         df = pd.DataFrame()
         df.loc[lot_number,'Product'] = product
-        df.loc[lot_number,"Date"] = date
-        df.loc[lot_number,'Shop Order'] = shop_order
+        df.loc[lot_number,"first_entry_date"] = first_date
+        df.loc[lot_number,'last_entry_date'] = last_date
+        df.loc[lot_number,'shop_order'] = shop_order
         df.loc[lot_number,'requested_qty'] = req_qty
         for i,component in enumerate(frame.component):
             component = component.strip()
